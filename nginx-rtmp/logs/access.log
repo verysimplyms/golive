@@ -1,0 +1,411 @@
+127.0.0.1 [27/Nov/2016:07:43:07 -0600] PUBLISH "live" "live" "" - 4653152 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (37s)
+127.0.0.1 [27/Nov/2016:07:44:15 -0600] PUBLISH "live" "" "" - 6440614 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (47s)
+127.0.0.1 [27/Nov/2016:07:44:39 -0600] PLAY "live" "" "" - 380 6441474 "" "LNX 9,0,124,2" (2m 7s)
+127.0.0.1 [27/Nov/2016:07:54:20 -0600] PUBLISH "live" "test" "" - 1882289 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (15s)
+127.0.0.1 [27/Nov/2016:07:54:51 -0600] PUBLISH "live" "" "" - 1372040 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (11s)
+127.0.0.1 [27/Nov/2016:07:55:59 -0600] PUBLISH "live" "test" "" - 7401692 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (52s)
+127.0.0.1 [27/Nov/2016:07:56:25 -0600] PLAY "live" "test" "" - 396 7971781 "" "LNX 9,0,124,2" (2m 16s)
+127.0.0.1 [27/Nov/2016:07:57:03 -0600] PUBLISH "live" "" "" - 4825819 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (37s)
+127.0.0.1 [27/Nov/2016:07:57:46 -0600] PLAY "live" "" "" - 372 4451190 "" "LNX 9,0,124,2" (1m 16s)
+127.0.0.1 [27/Nov/2016:07:58:20 -0600] PUBLISH "live" "" "" - 6866793 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (54s)
+127.0.0.1 [27/Nov/2016:07:58:43 -0600] PLAY "live" "" "" - 360 1092776 "" "LNX 9,0,124,2" (37s)
+127.0.0.1 [27/Nov/2016:08:01:10 -0600] PUBLISH "live" "test" "" - 18164975 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (2m 18s)
+127.0.0.1 [27/Nov/2016:08:01:17 -0600] PLAY "live" "test" "" - 428 18169848 "" "LNX 9,0,124,2" (2m 28s)
+127.0.0.1 [04/Dec/2016:20:38:46 -0600] PUBLISH "live" "test" "" - 4403968 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (32s)
+127.0.0.1 [04/Dec/2016:20:41:16 -0600] PUBLISH "live" "test" "" - 19521519 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (2m 18s)
+127.0.0.1 [04/Dec/2016:20:47:23 -0600] PUBLISH "live" "test" "" - 356 292 "" "FMLE/3.0 (compatible; FMSc/1.0)" (10s)
+127.0.0.1 [04/Dec/2016:21:09:12 -0600] PUBLISH "live" "test" "" - 176318725 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (21m 41s)
+127.0.0.1 [04/Dec/2016:21:09:15 -0600] PLAY "live" "test" "" - 929 176345878 "" "LNX 9,0,124,2" (21m 54s)
+127.0.0.1 [04/Dec/2016:21:13:56 -0600] PUBLISH "live" "test" "" - 11115374 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (1m 22s)
+127.0.0.1 [04/Dec/2016:21:14:53 -0600] PUBLISH "live" "test" "" - 7513613 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (56s)
+127.0.0.1 [04/Dec/2016:21:21:09 -0600] PUBLISH "live" "test" "" - 356 292 "" "FMLE/3.0 (compatible; FMSc/1.0)" (10s)
+127.0.0.1 [04/Dec/2016:21:21:25 -0600] PUBLISH "live" "test" "" - 1109903 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (9s)
+127.0.0.1 [04/Dec/2016:21:21:42 -0600] PUBLISH "live" "test" "" - 356 292 "" "FMLE/3.0 (compatible; FMSc/1.0)" (10s)
+127.0.0.1 [04/Dec/2016:21:21:56 -0600] PUBLISH "live" "test" "" - 356 292 "" "FMLE/3.0 (compatible; FMSc/1.0)" (10s)
+127.0.0.1 [04/Dec/2016:21:23:24 -0600] PLAY "live" "test" "" - 368 2132347 "" "LNX 9,0,124,2" (49s)
+127.0.0.1 [04/Dec/2016:21:23:28 -0600] PUBLISH "live" "test" "" - 10698298 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (1m 20s)
+127.0.0.1 [04/Dec/2016:21:25:30 -0600] PUBLISH "live" "test" "" - 356 292 "" "FMLE/3.0 (compatible; FMSc/1.0)" (10s)
+127.0.0.1 [04/Dec/2016:21:25:59 -0600] PUBLISH "live" "test" "" - 2106247 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (16s)
+127.0.0.1 [04/Dec/2016:21:38:45 -0600] PUBLISH "live" "test" "" - 278813 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (3s)
+127.0.0.1 [04/Dec/2016:21:40:20 -0600] PUBLISH "live" "test" "" - 356 292 "" "FMLE/3.0 (compatible; FMSc/1.0)" (0s)
+127.0.0.1 [04/Dec/2016:21:40:34 -0600] PUBLISH "live" "test" "" - 356 292 "" "FMLE/3.0 (compatible; FMSc/1.0)" (0s)
+127.0.0.1 [04/Dec/2016:21:40:45 -0600] PUBLISH "live" "test" "" - 356 292 "" "FMLE/3.0 (compatible; FMSc/1.0)" (0s)
+127.0.0.1 [04/Dec/2016:21:43:29 -0600] PUBLISH "live" "test" "" - 356 292 "" "FMLE/3.0 (compatible; FMSc/1.0)" (0s)
+127.0.0.1 [04/Dec/2016:21:45:35 -0600] PUBLISH "live" "test" "" - 356 292 "" "FMLE/3.0 (compatible; FMSc/1.0)" (0s)
+127.0.0.1 [04/Dec/2016:21:45:42 -0600] PUBLISH "live" "test" "" - 356 292 "" "FMLE/3.0 (compatible; FMSc/1.0)" (0s)
+127.0.0.1 [04/Dec/2016:21:46:14 -0600] PUBLISH "live" "test" "" - 356 292 "" "FMLE/3.0 (compatible; FMSc/1.0)" (0s)
+127.0.0.1 [04/Dec/2016:21:48:52 -0600] PUBLISH "live" "test" "" - 356 292 "" "FMLE/3.0 (compatible; FMSc/1.0)" (0s)
+127.0.0.1 [04/Dec/2016:21:49:24 -0600] PUBLISH "live" "test" "" - 356 292 "" "FMLE/3.0 (compatible; FMSc/1.0)" (0s)
+127.0.0.1 [04/Dec/2016:21:51:30 -0600] PUBLISH "live" "test" "" - 356 292 "" "FMLE/3.0 (compatible; FMSc/1.0)" (0s)
+127.0.0.1 [04/Dec/2016:21:53:18 -0600] PUBLISH "live" "test" "" - 356 292 "" "FMLE/3.0 (compatible; FMSc/1.0)" (0s)
+127.0.0.1 [04/Dec/2016:22:07:46 -0600] PUBLISH "live" "test" "" - 10809208 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (1m 20s)
+127.0.0.1 [04/Dec/2016:22:08:28 -0600] PUBLISH "live" "test" "" - 3291433 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (25s)
+127.0.0.1 [04/Dec/2016:22:09:03 -0600] PUBLISH "live" "test" "" - 4364958 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (33s)
+127.0.0.1 [04/Dec/2016:22:09:16 -0600] PUBLISH "live" "meme" "" - 356 292 "" "FMLE/3.0 (compatible; FMSc/1.0)" (0s)
+127.0.0.1 [07/Dec/2016:20:04:39 -0600] PUBLISH "live" "meme" "" - 356 292 "" "FMLE/3.0 (compatible; FMSc/1.0)" (0s)
+127.0.0.1 [07/Dec/2016:20:05:53 -0600] PLAY "live" "test" "" - 368 520413 "" "LNX 9,0,124,2" (19s)
+127.0.0.1 [07/Dec/2016:20:06:19 -0600] PLAY "live" "test" "" - 368 532366 "" "LNX 9,0,124,2" (20s)
+127.0.0.1 [07/Dec/2016:20:08:07 -0600] PUBLISH "live" "test" "" - 24195353 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (3m 8s)
+127.0.0.1 [07/Dec/2016:20:08:29 -0600] PLAY "live" "test" "" - 396 5347370 "" "LNX 9,0,124,2" (2m 5s)
+127.0.0.1 [07/Dec/2016:20:09:09 -0600] PUBLISH "live" "test" "" - 7904575 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (1m 0s)
+127.0.0.1 [07/Dec/2016:20:09:26 -0600] PUBLISH "live" "test" "" - 356 292 "" "FMLE/3.0 (compatible; FMSc/1.0)" (10s)
+127.0.0.1 [07/Dec/2016:20:10:13 -0600] PLAY "live" "test" "" - 380 4687607 "" "LNX 9,0,124,2" (1m 38s)
+127.0.0.1 [07/Dec/2016:20:10:30 -0600] PLAY "live" "test" "" - 368 292 "" "LNX 9,0,124,2" (10s)
+127.0.0.1 [07/Dec/2016:20:13:10 -0600] PLAY "live" "test" "" - 436 21791189 "" "LNX 9,0,124,2" (2m 34s)
+127.0.0.1 [07/Dec/2016:20:14:37 -0600] PLAY "live" "secureURL" "" - 378 436 "" "LNX 9,0,124,2" (30s)
+127.0.0.1 [07/Dec/2016:20:16:01 -0600] PLAY "live" "secureURL" "u=spaghetti" - 402 436 "" "LNX 9,0,124,2" (1m 18s)
+127.0.0.1 [07/Dec/2016:20:24:13 -0600] PLAY "live" "secureURL" "name=test" - 454 562 "" "LNX 9,0,124,2" (8m 6s)
+127.0.0.1 [07/Dec/2016:20:25:04 -0600] PLAY "live" "secureURL" "name=test" - 398 436 "" "LNX 9,0,124,2" (45s)
+127.0.0.1 [07/Dec/2016:20:25:09 -0600] PLAY "live" "secureURL" "name=test" - 398 292 "" "LNX 9,0,124,2" (0s)
+127.0.0.1 [07/Dec/2016:20:25:24 -0600] PUBLISH "live" "test" "" - 122738542 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (14m 56s)
+127.0.0.1 [07/Dec/2016:20:25:43 -0600] PLAY "live" "secureURL" "name=test" - 398 292 "" "LNX 9,0,124,2" (0s)
+127.0.0.1 [07/Dec/2016:20:26:20 -0600] PLAY "live" "test" "" - 368 292 "" "LNX 9,0,124,2" (0s)
+127.0.0.1 [07/Dec/2016:20:30:46 -0600] PLAY "live" "secureURL" "name=test" - 419 472 "" "LNX 9,0,124,2" (3m 26s)
+127.0.0.1 [07/Dec/2016:20:32:59 -0600] PLAY "view" "secureURL" "" - 378 436 "" "LNX 9,0,124,2" (1m 13s)
+127.0.0.1 [07/Dec/2016:20:34:45 -0600] PUBLISH "live" "test" "" - 25460356 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (3m 14s)
+127.0.0.1 [07/Dec/2016:20:35:13 -0600] PLAY "view" "test" "" - 382 454 "" "LNX 9,0,124,2" (2m 9s)
+127.0.0.1 [07/Dec/2016:20:39:59 -0600] PLAY "view" "test" "" - 396 490 "" "LNX 9,0,124,2" (4m 40s)
+127.0.0.1 [07/Dec/2016:20:42:25 -0600] PLAY "view" "test" "u=test" - 396 454 "" "LNX 9,0,124,2" (2m 20s)
+127.0.0.1 [07/Dec/2016:20:51:32 -0600] PLAY "live" "" "" - 380 436 "" "LNX 9,0,124,2" (10s)
+127.0.0.1 [07/Dec/2016:20:51:43 -0600] PLAY "live" "" "" - 380 436 "" "LNX 9,0,124,2" (6s)
+127.0.0.1 [07/Dec/2016:20:53:02 -0600] PLAY "live" "" "" - 380 436 "" "LNX 9,0,124,2" (51s)
+127.0.0.1 [07/Dec/2016:20:53:13 -0600] PUBLISH "live" "test" "" - 14687314 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (1m 51s)
+127.0.0.1 [07/Dec/2016:20:53:51 -0600] PLAY "live" "mystream" "name=test" - 396 436 "" "LNX 9,0,124,2" (43s)
+127.0.0.1 [07/Dec/2016:20:54:13 -0600] PLAY "live" "test" "name=test" - 388 445871 "" "LNX 9,0,124,2" (16s)
+127.0.0.1 [07/Dec/2016:20:55:52 -0600] PLAY "live" "test" "" - 388 5339740 "" "LNX 9,0,124,2" (1m 34s)
+127.0.0.1 [07/Dec/2016:21:04:21 -0600] PUBLISH "live" "test" "" - 86607456 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (11m 7s)
+127.0.0.1 [07/Dec/2016:21:16:06 -0600] PLAY "live" "streams" "name=test" - 534 778 "" "LNX 9,0,124,2" (20m 8s)
+127.0.0.1 - - [08/Dec/2016:09:34:54 -0600] "GET /live/meme HTTP/1.1" 404 179 "-" "VLC/2.2.2 LibVLC/2.2.2"
+127.0.0.1 - - [08/Dec/2016:09:34:59 -0600] "GET /live/meme HTTP/1.0" 404 179 "-" "VLC/2.2.2 LibVLC/2.2.2"
+127.0.0.1 - - [08/Dec/2016:09:35:04 -0600] "GET /live/meme HTTP/1.0" 404 179 "-" "NSPlayer/7.10.0.3059"
+127.0.0.1 - - [08/Dec/2016:09:35:40 -0600] "GET /live/meme HTTP/1.1" 404 179 "-" "VLC/2.2.2 LibVLC/2.2.2"
+127.0.0.1 - - [08/Dec/2016:09:35:45 -0600] "GET /live/meme HTTP/1.0" 404 179 "-" "VLC/2.2.2 LibVLC/2.2.2"
+127.0.0.1 - - [08/Dec/2016:09:35:50 -0600] "GET /live/meme HTTP/1.0" 404 179 "-" "NSPlayer/7.10.0.3059"
+127.0.0.1 - - [08/Dec/2016:09:36:50 -0600] "GET /live/test HTTP/1.1" 404 179 "-" "VLC/2.2.2 LibVLC/2.2.2"
+127.0.0.1 - - [08/Dec/2016:09:36:55 -0600] "GET /live/test HTTP/1.0" 404 179 "-" "VLC/2.2.2 LibVLC/2.2.2"
+127.0.0.1 - - [08/Dec/2016:09:37:00 -0600] "GET /live/test HTTP/1.0" 404 179 "-" "NSPlayer/7.10.0.3059"
+127.0.0.1 - - [08/Dec/2016:09:37:30 -0600] "GET /live/test.m3u8 HTTP/1.1" 404 179 "-" "VLC/2.2.2 LibVLC/2.2.2"
+127.0.0.1 - - [08/Dec/2016:09:37:35 -0600] "GET /live/test.m3u8 HTTP/1.0" 404 179 "-" "VLC/2.2.2 LibVLC/2.2.2"
+127.0.0.1 - - [08/Dec/2016:09:37:40 -0600] "GET /live/test.m3u8 HTTP/1.0" 404 179 "-" "NSPlayer/7.10.0.3059"
+127.0.0.1 - - [08/Dec/2016:09:38:40 -0600] "GET /live/test/index.m3u8 HTTP/1.1" 404 179 "-" "VLC/2.2.2 LibVLC/2.2.2"
+127.0.0.1 - - [08/Dec/2016:09:38:45 -0600] "GET /live/test/index.m3u8 HTTP/1.0" 404 179 "-" "VLC/2.2.2 LibVLC/2.2.2"
+127.0.0.1 - - [08/Dec/2016:09:38:50 -0600] "GET /live/test/index.m3u8 HTTP/1.0" 404 179 "-" "NSPlayer/7.10.0.3059"
+127.0.0.1 - - [08/Dec/2016:09:39:06 -0600] "GET /live/meme/index.m3u8 HTTP/1.1" 404 179 "-" "VLC/2.2.2 LibVLC/2.2.2"
+127.0.0.1 - - [08/Dec/2016:09:39:11 -0600] "GET /live/meme/index.m3u8 HTTP/1.0" 404 179 "-" "VLC/2.2.2 LibVLC/2.2.2"
+127.0.0.1 - - [08/Dec/2016:09:39:16 -0600] "GET /live/meme/index.m3u8 HTTP/1.0" 404 179 "-" "NSPlayer/7.10.0.3059"
+127.0.0.1 [08/Dec/2016:09:41:36 -0600] PUBLISH "live" "test" "" - 55745020 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (7m 9s)
+127.0.0.1 [08/Dec/2016:09:41:36 -0600] PUBLISH "hls-live" "test" "" - 55761380 585 "" "LNX.11,1,102,55" (7m 9s)
+127.0.0.1 - - [08/Dec/2016:09:45:59 -0600] "GET /live/meme/index.m3u8 HTTP/1.1" 404 179 "-" "VLC/2.2.2 LibVLC/2.2.2"
+127.0.0.1 - - [08/Dec/2016:09:46:04 -0600] "GET /live/meme/index.m3u8 HTTP/1.0" 404 179 "-" "VLC/2.2.2 LibVLC/2.2.2"
+127.0.0.1 - - [08/Dec/2016:09:46:09 -0600] "GET /live/meme/index.m3u8 HTTP/1.0" 404 179 "-" "NSPlayer/7.10.0.3059"
+127.0.0.1 - - [08/Dec/2016:09:48:14 -0600] "GET /live/meme/index.m3u8 HTTP/1.1" 404 179 "-" "VLC/2.2.2 LibVLC/2.2.2"
+127.0.0.1 - - [08/Dec/2016:09:48:19 -0600] "GET /live/meme/index.m3u8 HTTP/1.0" 404 179 "-" "VLC/2.2.2 LibVLC/2.2.2"
+127.0.0.1 - - [08/Dec/2016:09:48:24 -0600] "GET /live/meme/index.m3u8 HTTP/1.0" 404 179 "-" "NSPlayer/7.10.0.3059"
+127.0.0.1 - - [08/Dec/2016:09:49:28 -0600] "GET /live/test/index.m3u8 HTTP/1.1" 404 179 "-" "VLC/2.2.2 LibVLC/2.2.2"
+127.0.0.1 - - [08/Dec/2016:09:49:33 -0600] "GET /live/test/index.m3u8 HTTP/1.0" 404 179 "-" "VLC/2.2.2 LibVLC/2.2.2"
+127.0.0.1 - - [08/Dec/2016:09:49:38 -0600] "GET /live/test/index.m3u8 HTTP/1.0" 404 179 "-" "NSPlayer/7.10.0.3059"
+127.0.0.1 - - [08/Dec/2016:09:53:15 -0600] "GET /live/meme/index.m3u8 HTTP/1.1" 404 179 "-" "VLC/2.2.2 LibVLC/2.2.2"
+127.0.0.1 - - [08/Dec/2016:09:53:20 -0600] "GET /live/meme/index.m3u8 HTTP/1.0" 404 179 "-" "VLC/2.2.2 LibVLC/2.2.2"
+127.0.0.1 - - [08/Dec/2016:09:53:25 -0600] "GET /live/meme/index.m3u8 HTTP/1.0" 404 179 "-" "NSPlayer/7.10.0.3059"
+127.0.0.1 - - [08/Dec/2016:09:54:52 -0600] "GET /live/test/index.m3u8 HTTP/1.1" 404 179 "-" "VLC/2.2.2 LibVLC/2.2.2"
+127.0.0.1 - - [08/Dec/2016:09:54:57 -0600] "GET /live/test/index.m3u8 HTTP/1.0" 404 179 "-" "VLC/2.2.2 LibVLC/2.2.2"
+127.0.0.1 - - [08/Dec/2016:09:55:02 -0600] "GET /live/test/index.m3u8 HTTP/1.0" 404 179 "-" "NSPlayer/7.10.0.3059"
+127.0.0.1 - - [08/Dec/2016:09:56:15 -0600] "GET /live/test/index.m3u8 HTTP/1.1" 404 581 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [08/Dec/2016:09:56:16 -0600] "GET /favicon.ico HTTP/1.1" 404 581 "http://localhost/live/test/index.m3u8" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [08/Dec/2016:09:56:22 -0600] "GET /live/meme/index.m3u8 HTTP/1.1" 404 581 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [08/Dec/2016:09:56:28 -0600] "GET /live/meme HTTP/1.1" 404 581 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [08/Dec/2016:09:56:33 -0600] "GET /live/meme.m3u8 HTTP/1.1" 404 581 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [08/Dec/2016:09:57:28 -0600] "GET /live/meme/index.m3u8 HTTP/1.1" 404 581 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [08/Dec/2016:10:02:11 -0600] "GET /live/meme/index.m3u8 HTTP/1.1" 404 179 "-" "VLC/2.2.2 LibVLC/2.2.2"
+127.0.0.1 - - [08/Dec/2016:10:02:16 -0600] "GET /live/meme/index.m3u8 HTTP/1.0" 404 179 "-" "VLC/2.2.2 LibVLC/2.2.2"
+127.0.0.1 - - [08/Dec/2016:10:02:21 -0600] "GET /live/meme/index.m3u8 HTTP/1.0" 404 179 "-" "NSPlayer/7.10.0.3059"
+127.0.0.1 - - [08/Dec/2016:10:03:32 -0600] "GET /live/meme/index.m3u8 HTTP/1.1" 404 179 "-" "VLC/2.2.2 LibVLC/2.2.2"
+127.0.0.1 - - [08/Dec/2016:10:03:37 -0600] "GET /live/meme/index.m3u8 HTTP/1.0" 404 179 "-" "VLC/2.2.2 LibVLC/2.2.2"
+127.0.0.1 - - [08/Dec/2016:10:03:42 -0600] "GET /live/meme/index.m3u8 HTTP/1.0" 404 179 "-" "NSPlayer/7.10.0.3059"
+127.0.0.1 - - [08/Dec/2016:10:03:56 -0600] "GET /live/meme/index.m3u8 HTTP/1.1" 404 581 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [08/Dec/2016:10:03:59 -0600] "GET /live/test/index.m3u8 HTTP/1.1" 404 581 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [08/Dec/2016:10:09:42 -0600] "GET / HTTP/1.1" 404 581 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [08/Dec/2016:10:11:26 -0600] "GET /live/meme/index.m3u8 HTTP/1.1" 404 179 "-" "VLC/2.2.2 LibVLC/2.2.2"
+127.0.0.1 - - [08/Dec/2016:10:11:31 -0600] "GET /live/meme/index.m3u8 HTTP/1.0" 404 179 "-" "VLC/2.2.2 LibVLC/2.2.2"
+127.0.0.1 - - [08/Dec/2016:10:11:36 -0600] "GET /live/meme/index.m3u8 HTTP/1.0" 404 179 "-" "NSPlayer/7.10.0.3059"
+127.0.0.1 - - [08/Dec/2016:10:11:46 -0600] "GET /live/meme/index.m3u8 HTTP/1.1" 404 581 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 [08/Dec/2016:10:13:35 -0600] PUBLISH "live" "test" "" - 18474940 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (2m 24s)
+127.0.0.1 [08/Dec/2016:10:13:35 -0600] PUBLISH "hls-live" "/meme" "" - 18480897 457 "" "LNX.11,1,102,55" (2m 24s)
+127.0.0.1 - - [08/Dec/2016:10:13:47 -0600] "GET /live/meme/index.m3u8 HTTP/1.1" 404 179 "-" "VLC/2.2.2 LibVLC/2.2.2"
+127.0.0.1 - - [08/Dec/2016:10:13:52 -0600] "GET /live/meme/index.m3u8 HTTP/1.0" 404 179 "-" "VLC/2.2.2 LibVLC/2.2.2"
+127.0.0.1 - - [08/Dec/2016:10:13:57 -0600] "GET /live/meme/index.m3u8 HTTP/1.0" 404 179 "-" "NSPlayer/7.10.0.3059"
+127.0.0.1 - - [08/Dec/2016:10:14:02 -0600] "GET /live/meme/index.m3u8 HTTP/1.1" 404 581 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [08/Dec/2016:10:14:03 -0600] "GET /live/meme/index.m3u8 HTTP/1.1" 404 581 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 [08/Dec/2016:10:14:25 -0600] PUBLISH "live" "test" "" - 6162222 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (48s)
+127.0.0.1 [08/Dec/2016:10:15:11 -0600] PUBLISH "live" "test" "" - 4985093 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (40s)
+127.0.0.1 [08/Dec/2016:10:15:11 -0600] PUBLISH "hls-live" "test" "" - 4986801 409 "" "LNX.11,1,102,55" (40s)
+127.0.0.1 - - [08/Dec/2016:10:16:59 -0600] "GET /live/meme/index.m3u8 HTTP/1.1" 404 179 "-" "VLC/2.2.2 LibVLC/2.2.2"
+127.0.0.1 - - [08/Dec/2016:10:17:04 -0600] "GET /live/meme/index.m3u8 HTTP/1.0" 404 179 "-" "VLC/2.2.2 LibVLC/2.2.2"
+127.0.0.1 - - [08/Dec/2016:10:17:09 -0600] "GET /live/meme/index.m3u8 HTTP/1.0" 404 179 "-" "NSPlayer/7.10.0.3059"
+127.0.0.1 - - [08/Dec/2016:10:17:19 -0600] "GET /live/meme/index.m3u8 HTTP/1.1" 404 581 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [08/Dec/2016:10:17:22 -0600] "GET /live/test/index.m3u8 HTTP/1.1" 404 581 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 [08/Dec/2016:10:19:46 -0600] PLAY "live" "test" "" - 368 730440 "" "LNX 9,0,124,2" (18s)
+127.0.0.1 [08/Dec/2016:10:20:12 -0600] PLAY "live" "test" "" - 368 2591003 "" "LNX 9,0,124,2" (21s)
+127.0.0.1 [08/Dec/2016:10:21:41 -0600] PLAY "live" "meme" "" - 368 436 "" "LNX 9,0,124,2" (1m 24s)
+127.0.0.1 [08/Dec/2016:10:24:02 -0600] PUBLISH "live" "test" "" - 37803807 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (4m 52s)
+127.0.0.1 [08/Dec/2016:10:24:02 -0600] PUBLISH "hls-live" "test" "" - 37815835 521 "" "LNX.11,1,102,55" (4m 52s)
+127.0.0.1 [08/Dec/2016:10:24:16 -0600] PLAY "live" "meme" "" - 382 454 "" "LNX 9,0,124,2" (2m 29s)
+127.0.0.1 [08/Dec/2016:10:30:15 -0600] PLAY "live" "meme" "" - 403 508 "" "LNX 9,0,124,2" (5m 53s)
+127.0.0.1 [08/Dec/2016:10:30:35 -0600] PLAY "hls-live" "meme" "" - 376 436 "" "LNX 9,0,124,2" (15s)
+127.0.0.1 [08/Dec/2016:10:32:07 -0600] PUBLISH "live" "test" "" - 62061851 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (8m 3s)
+127.0.0.1 [08/Dec/2016:10:32:07 -0600] PUBLISH "hls-live" "/meme" "" - 53589246 569 "" "LNX.11,1,102,55" (7m 0s)
+127.0.0.1 [08/Dec/2016:10:32:21 -0600] PUBLISH "live" "test" "" - 1723734 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (14s)
+127.0.0.1 [08/Dec/2016:10:34:09 -0600] PUBLISH "live" "test" "token=secret" - 800598 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (6s)
+127.0.0.1 [08/Dec/2016:10:34:09 -0600] PUBLISH "hls-live" "/meme" "" - 800559 409 "" "LNX.11,1,102,55" (6s)
+127.0.0.1 [08/Dec/2016:10:35:03 -0600] PUBLISH "live" "test" "token=secret" - 6903828 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (52s)
+127.0.0.1 [08/Dec/2016:10:35:19 -0600] PUBLISH "live" "test" "token=notsecret" - 404 292 "" "FMLE/3.0 (compatible; FMSc/1.0)" (0s)
+127.0.0.1 [08/Dec/2016:10:36:48 -0600] PLAY "live" "test" "" - 368 436 "" "LNX 9,0,124,2" (37s)
+127.0.0.1 [08/Dec/2016:10:39:43 -0600] PLAY "live" "test" "" - 368 541023 "" "LNX 9,0,124,2" (20s)
+127.0.0.1 [08/Dec/2016:10:40:17 -0600] PLAY "live" "test" "" - 368 1304868 "" "LNX 9,0,124,2" (28s)
+127.0.0.1 [08/Dec/2016:10:40:42 -0600] PLAY "live" "test" "" - 368 959800 "" "LNX 9,0,124,2" (19s)
+127.0.0.1 [08/Dec/2016:10:41:10 -0600] PLAY "live" "test" "token=secret" - 394 762219 "" "LNX 9,0,124,2" (12s)
+127.0.0.1 [08/Dec/2016:10:42:54 -0600] PUBLISH "live" "test" "token=secret" - 29930666 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (3m 49s)
+127.0.0.1 [08/Dec/2016:10:42:54 -0600] PUBLISH "hls-live" "test" "" - 29938778 489 "" "LNX.11,1,102,55" (3m 49s)
+127.0.0.1 [08/Dec/2016:10:45:26 -0600] PLAY "live" "test" "" - 410 6579071 "" "LNX 9,0,124,2" (4m 10s)
+127.0.0.1 - - [08/Dec/2016:10:45:31 -0600] "GET /live/test/index.m3u8 HTTP/1.1" 404 179 "-" "VLC/2.2.2 LibVLC/2.2.2"
+127.0.0.1 - - [08/Dec/2016:10:45:36 -0600] "GET /live/test/index.m3u8 HTTP/1.0" 404 179 "-" "VLC/2.2.2 LibVLC/2.2.2"
+127.0.0.1 - - [08/Dec/2016:10:45:41 -0600] "GET /live/test/index.m3u8 HTTP/1.0" 404 179 "-" "NSPlayer/7.10.0.3059"
+127.0.0.1 - - [08/Dec/2016:10:45:57 -0600] "GET /live/test/index.m3u8 HTTP/1.1" 404 581 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [08/Dec/2016:10:55:31 -0600] "GET /live/test/index.m3u8 HTTP/1.1" 404 179 "-" "VLC/2.2.2 LibVLC/2.2.2"
+127.0.0.1 - - [08/Dec/2016:10:55:36 -0600] "GET /live/test/index.m3u8 HTTP/1.0" 404 179 "-" "VLC/2.2.2 LibVLC/2.2.2"
+127.0.0.1 - - [08/Dec/2016:10:55:41 -0600] "GET /live/test/index.m3u8 HTTP/1.0" 404 179 "-" "NSPlayer/7.10.0.3059"
+127.0.0.1 - - [08/Dec/2016:10:56:16 -0600] "GET /live/meme/index.m3u8 HTTP/1.1" 404 179 "-" "VLC/2.2.2 LibVLC/2.2.2"
+127.0.0.1 - - [08/Dec/2016:10:56:16 -0600] "GET /live/test/index.m3u8 HTTP/1.1" 404 581 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [08/Dec/2016:10:56:21 -0600] "GET /live/meme/index.m3u8 HTTP/1.0" 404 179 "-" "VLC/2.2.2 LibVLC/2.2.2"
+127.0.0.1 - - [08/Dec/2016:10:56:26 -0600] "GET /live/meme/index.m3u8 HTTP/1.0" 404 179 "-" "NSPlayer/7.10.0.3059"
+127.0.0.1 - - [08/Dec/2016:10:58:21 -0600] "GET /live/test/index.m3u8 HTTP/1.1" 200 266 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [08/Dec/2016:10:58:36 -0600] "GET /live/meme/index.m3u8 HTTP/1.1" 404 179 "-" "VLC/2.2.2 LibVLC/2.2.2"
+127.0.0.1 - - [08/Dec/2016:10:58:41 -0600] "GET /live/meme/index.m3u8 HTTP/1.0" 404 179 "-" "VLC/2.2.2 LibVLC/2.2.2"
+127.0.0.1 - - [08/Dec/2016:10:58:46 -0600] "GET /live/meme/index.m3u8 HTTP/1.0" 404 179 "-" "NSPlayer/7.10.0.3059"
+127.0.0.1 - - [08/Dec/2016:10:58:57 -0600] "GET /live/test/index.m3u8 HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [08/Dec/2016:10:58:59 -0600] "GET /live/test/index.m3u8 HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [08/Dec/2016:10:59:00 -0600] "GET /live/test/index.m3u8 HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [08/Dec/2016:10:59:00 -0600] "GET /live/test/index.m3u8 HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [08/Dec/2016:10:59:01 -0600] "GET /live/test/index.m3u8 HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [08/Dec/2016:10:59:02 -0600] "GET /live/test/index.m3u8 HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [08/Dec/2016:10:59:02 -0600] "GET /live/test/index.m3u8 HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [08/Dec/2016:10:59:03 -0600] "GET /live/test/index.m3u8 HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [08/Dec/2016:10:59:04 -0600] "GET /live/test/index.m3u8 HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [08/Dec/2016:10:59:04 -0600] "GET /live/test/index.m3u8 HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [08/Dec/2016:10:59:05 -0600] "GET /live/test/index.m3u8 HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [08/Dec/2016:10:59:06 -0600] "GET /live/test/index.m3u8 HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [08/Dec/2016:10:59:07 -0600] "GET /live/test/index.m3u8 HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [08/Dec/2016:10:59:07 -0600] "GET /live/test/index.m3u8 HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [08/Dec/2016:10:59:08 -0600] "GET /live/test/index.m3u8 HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [08/Dec/2016:10:59:09 -0600] "GET /live/test/index.m3u8 HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [08/Dec/2016:10:59:09 -0600] "GET /live/test/index.m3u8 HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [08/Dec/2016:10:59:10 -0600] "GET /live/test/index.m3u8 HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [08/Dec/2016:10:59:11 -0600] "GET /live/test/index.m3u8 HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [08/Dec/2016:10:59:11 -0600] "GET /live/test/index.m3u8 HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [08/Dec/2016:10:59:12 -0600] "GET /live/test/index.m3u8 HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [08/Dec/2016:10:59:13 -0600] "GET /live/test/index.m3u8 HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [08/Dec/2016:10:59:21 -0600] "GET /live/test/index.m3u8 HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [08/Dec/2016:10:59:22 -0600] "GET /live/test/index.m3u8 HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [08/Dec/2016:10:59:23 -0600] "GET /live/test/index.m3u8 HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [08/Dec/2016:10:59:24 -0600] "GET /live/test/index.m3u8 HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [08/Dec/2016:10:59:24 -0600] "GET /live/test/index.m3u8 HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [08/Dec/2016:10:59:25 -0600] "GET /live/test/index.m3u8 HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [08/Dec/2016:10:59:26 -0600] "GET /live/test/index.m3u8 HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [08/Dec/2016:10:59:26 -0600] "GET /live/test/index.m3u8 HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [08/Dec/2016:10:59:27 -0600] "GET /live/test/index.m3u8 HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [08/Dec/2016:10:59:27 -0600] "GET /live/test/index.m3u8 HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [08/Dec/2016:10:59:28 -0600] "GET /live/test/index.m3u8 HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [08/Dec/2016:10:59:29 -0600] "GET /live/test/index.m3u8 HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [08/Dec/2016:10:59:29 -0600] "GET /live/test/index.m3u8 HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [08/Dec/2016:10:59:30 -0600] "GET /live/test/index.m3u8 HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [08/Dec/2016:11:00:01 -0600] "GET /live/test/index.m3u8 HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [08/Dec/2016:11:00:02 -0600] "GET /live/test/index.m3u8 HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [08/Dec/2016:11:00:02 -0600] "GET /live/test/index.m3u8 HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 [08/Dec/2016:11:00:07 -0600] PUBLISH "live" "test" "token=secret" - 14399013 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (1m 53s)
+127.0.0.1 [08/Dec/2016:11:00:07 -0600] PUBLISH "hls-live" "test" "" - 14404029 441 "" "LNX.11,1,102,55" (1m 53s)
+127.0.0.1 - - [08/Dec/2016:11:02:31 -0600] "GET /live/test/index.m3u8 HTTP/1.1" 404 581 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [08/Dec/2016:11:02:32 -0600] "GET /live/test/index.m3u8 HTTP/1.1" 404 581 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [08/Dec/2016:11:02:38 -0600] "GET /live/test/index.m3u8 HTTP/1.1" 200 126 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [08/Dec/2016:11:02:40 -0600] "GET /live/test/index.m3u8 HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [08/Dec/2016:11:02:48 -0600] "GET /live/test/index.m3u8 HTTP/1.1" 200 158 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [08/Dec/2016:11:02:50 -0600] "GET /live/test/index.m3u8 HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [08/Dec/2016:11:02:51 -0600] "GET /live/test/index.m3u8 HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [08/Dec/2016:11:02:51 -0600] "GET /live/test/index.m3u8 HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [08/Dec/2016:11:02:51 -0600] "GET /live/test/index.m3u8 HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [08/Dec/2016:11:03:07 -0600] "GET /live/test/index.m3u8 HTTP/1.1" 206 222 "-" "VLC/2.2.2 LibVLC/2.2.2"
+127.0.0.1 - - [08/Dec/2016:11:03:12 -0600] "GET /live/test/1481216556801.ts HTTP/1.1" 206 1127248 "-" "VLC/2.2.2 LibVLC/2.2.2"
+127.0.0.1 - - [08/Dec/2016:11:03:17 -0600] "GET /live/test/1481216565164.ts HTTP/1.1" 206 1128564 "-" "VLC/2.2.2 LibVLC/2.2.2"
+127.0.0.1 - - [08/Dec/2016:11:03:22 -0600] "GET /live/test/1481216573502.ts HTTP/1.1" 206 1141912 "-" "VLC/2.2.2 LibVLC/2.2.2"
+127.0.0.1 - - [08/Dec/2016:11:03:25 -0600] "GET /live/test/index.m3u8 HTTP/1.1" 206 286 "-" "VLC/2.2.2 LibVLC/2.2.2"
+127.0.0.1 - - [08/Dec/2016:11:03:30 -0600] "GET /live/test/1481216581834.ts HTTP/1.1" 206 1144920 "-" "VLC/2.2.2 LibVLC/2.2.2"
+127.0.0.1 - - [08/Dec/2016:11:03:33 -0600] "GET /live/test/index.m3u8 HTTP/1.1" 206 265 "-" "VLC/2.2.2 LibVLC/2.2.2"
+127.0.0.1 - - [08/Dec/2016:11:03:35 -0600] "GET /live/test/1481216590167.ts HTTP/1.1" 206 1118412 "-" "VLC/2.2.2 LibVLC/2.2.2"
+127.0.0.1 - - [08/Dec/2016:11:03:40 -0600] "GET /live/test/1481216598494.ts HTTP/1.1" 206 1137588 "-" "VLC/2.2.2 LibVLC/2.2.2"
+127.0.0.1 - - [08/Dec/2016:11:03:41 -0600] "GET /live/test/index.m3u8 HTTP/1.1" 206 265 "-" "VLC/2.2.2 LibVLC/2.2.2"
+127.0.0.1 - - [08/Dec/2016:11:03:46 -0600] "GET /live/test/1481216606835.ts HTTP/1.1" 206 1110328 "-" "VLC/2.2.2 LibVLC/2.2.2"
+127.0.0.1 - - [08/Dec/2016:11:03:49 -0600] "GET /live/test/index.m3u8 HTTP/1.1" 206 265 "-" "VLC/2.2.2 LibVLC/2.2.2"
+127.0.0.1 - - [08/Dec/2016:11:03:54 -0600] "GET /live/test/1481216615168.ts HTTP/1.1" 206 1155824 "-" "VLC/2.2.2 LibVLC/2.2.2"
+127.0.0.1 - - [08/Dec/2016:11:04:03 -0600] "GET /live/test/index.m3u8 HTTP/1.1" 206 265 "-" "VLC/2.2.2 LibVLC/2.2.2"
+127.0.0.1 - - [08/Dec/2016:11:04:08 -0600] "GET /live/test/1481216615168.ts HTTP/1.1" 206 1155824 "-" "VLC/2.2.2 LibVLC/2.2.2"
+127.0.0.1 - - [08/Dec/2016:11:04:13 -0600] "GET /live/test/1481216623501.ts HTTP/1.1" 206 1169548 "-" "VLC/2.2.2 LibVLC/2.2.2"
+127.0.0.1 - - [08/Dec/2016:11:04:18 -0600] "GET /live/test/1481216631835.ts HTTP/1.1" 206 1106756 "-" "VLC/2.2.2 LibVLC/2.2.2"
+127.0.0.1 - - [08/Dec/2016:11:04:21 -0600] "GET /live/test/index.m3u8 HTTP/1.1" 206 265 "-" "VLC/2.2.2 LibVLC/2.2.2"
+127.0.0.1 - - [08/Dec/2016:11:04:26 -0600] "GET /live/test/1481216640166.ts HTTP/1.1" 206 1154320 "-" "VLC/2.2.2 LibVLC/2.2.2"
+127.0.0.1 - - [08/Dec/2016:11:04:29 -0600] "GET /live/test/index.m3u8 HTTP/1.1" 206 265 "-" "VLC/2.2.2 LibVLC/2.2.2"
+127.0.0.1 - - [08/Dec/2016:11:04:31 -0600] "GET /live/test/1481216648500.ts HTTP/1.1" 206 1111456 "-" "VLC/2.2.2 LibVLC/2.2.2"
+127.0.0.1 - - [08/Dec/2016:11:04:36 -0600] "GET /live/test/1481216656835.ts HTTP/1.1" 206 1135896 "-" "VLC/2.2.2 LibVLC/2.2.2"
+127.0.0.1 - - [08/Dec/2016:11:04:37 -0600] "GET /live/test/index.m3u8 HTTP/1.1" 206 265 "-" "VLC/2.2.2 LibVLC/2.2.2"
+127.0.0.1 - - [08/Dec/2016:11:04:42 -0600] "GET /live/test/1481216665161.ts HTTP/1.1" 206 1129504 "-" "VLC/2.2.2 LibVLC/2.2.2"
+127.0.0.1 - - [08/Dec/2016:11:04:45 -0600] "GET /live/test/index.m3u8 HTTP/1.1" 206 266 "-" "VLC/2.2.2 LibVLC/2.2.2"
+127.0.0.1 - - [08/Dec/2016:11:04:50 -0600] "GET /live/test/1481216673501.ts HTTP/1.1" 206 1115780 "-" "VLC/2.2.2 LibVLC/2.2.2"
+127.0.0.1 - - [08/Dec/2016:11:04:53 -0600] "GET /live/test/index.m3u8 HTTP/1.1" 206 266 "-" "VLC/2.2.2 LibVLC/2.2.2"
+127.0.0.1 - - [08/Dec/2016:11:04:58 -0600] "GET /live/test/1481216681835.ts HTTP/1.1" 206 1116344 "-" "VLC/2.2.2 LibVLC/2.2.2"
+127.0.0.1 - - [08/Dec/2016:11:05:01 -0600] "GET /live/test/index.m3u8 HTTP/1.1" 206 266 "-" "VLC/2.2.2 LibVLC/2.2.2"
+127.0.0.1 - - [08/Dec/2016:11:05:06 -0600] "GET /live/test/1481216690168.ts HTTP/1.1" 206 1111080 "-" "VLC/2.2.2 LibVLC/2.2.2"
+127.0.0.1 - - [08/Dec/2016:11:05:09 -0600] "GET /live/test/index.m3u8 HTTP/1.1" 206 266 "-" "VLC/2.2.2 LibVLC/2.2.2"
+127.0.0.1 - - [08/Dec/2016:11:05:17 -0600] "GET /live/test/index.m3u8 HTTP/1.1" 206 268 "-" "VLC/2.2.2 LibVLC/2.2.2"
+127.0.0.1 - - [08/Dec/2016:11:05:22 -0600] "GET /live/test/1481216698501.ts HTTP/1.1" 206 1563972 "-" "VLC/2.2.2 LibVLC/2.2.2"
+127.0.0.1 - - [08/Dec/2016:11:05:29 -0600] "GET /live/test/index.m3u8 HTTP/1.1" 206 268 "-" "VLC/2.2.2 LibVLC/2.2.2"
+127.0.0.1 - - [08/Dec/2016:11:05:34 -0600] "GET /live/test/1481216710168.ts HTTP/1.1" 206 1123112 "-" "VLC/2.2.2 LibVLC/2.2.2"
+127.0.0.1 - - [08/Dec/2016:11:05:37 -0600] "GET /live/test/index.m3u8 HTTP/1.1" 206 268 "-" "VLC/2.2.2 LibVLC/2.2.2"
+127.0.0.1 - - [08/Dec/2016:11:05:39 -0600] "GET /live/test/1481216718501.ts HTTP/1.1" 206 1127812 "-" "VLC/2.2.2 LibVLC/2.2.2"
+127.0.0.1 - - [08/Dec/2016:11:05:44 -0600] "GET /live/test/1481216726839.ts HTTP/1.1" 206 1119916 "-" "VLC/2.2.2 LibVLC/2.2.2"
+127.0.0.1 - - [08/Dec/2016:11:05:45 -0600] "GET /live/test/index.m3u8 HTTP/1.1" 206 268 "-" "VLC/2.2.2 LibVLC/2.2.2"
+127.0.0.1 [08/Dec/2016:11:08:39 -0600] PUBLISH "live" "test" "token=secret" - 48451141 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (6m 11s)
+127.0.0.1 [08/Dec/2016:11:08:39 -0600] PUBLISH "hls-live" "test" "" - 48464717 553 "" "LNX.11,1,102,55" (6m 11s)
+127.0.0.1 [11/Dec/2016:06:05:51 -0600] PUBLISH "live" "username" "token=+NwYcvDvpV5hFD/Uc8f3kw==" - 461 292 "" "FMLE/3.0 (compatible; FMSc/1.0)" (0s)
+127.0.0.1 [11/Dec/2016:06:06:00 -0600] PUBLISH "live" "username" "token=+NwYcvDvpV5hFD/Uc8f3kw==" - 461 292 "" "FMLE/3.0 (compatible; FMSc/1.0)" (0s)
+127.0.0.1 [11/Dec/2016:06:10:25 -0600] PUBLISH "live" "username" "token=+NwYcvDvpV5hFD/Uc8f3kw==" - 461 292 "" "FMLE/3.0 (compatible; FMSc/1.0)" (0s)
+127.0.0.1 [11/Dec/2016:06:10:31 -0600] PUBLISH "live" "username" "token=+NwYcvDvpV5hFD/Uc8f3kw==" - 461 292 "" "FMLE/3.0 (compatible; FMSc/1.0)" (0s)
+127.0.0.1 [11/Dec/2016:06:11:26 -0600] PUBLISH "live" "username" "token=+NwYcvDvpV5hFD/Uc8f3kw==" - 461 292 "" "FMLE/3.0 (compatible; FMSc/1.0)" (0s)
+127.0.0.1 [11/Dec/2016:06:16:54 -0600] PUBLISH "live" "username" "token=+NwYcvDvpV5hFD/Uc8f3kw==" - 461 292 "" "FMLE/3.0 (compatible; FMSc/1.0)" (0s)
+127.0.0.1 [11/Dec/2016:06:24:49 -0600] PUBLISH "live" "username" "token=€™*t$—Ú]Y^«TÞÔ" - 437 292 "" "FMLE/3.0 (compatible; FMSc/1.0)" (0s)
+127.0.0.1 [11/Dec/2016:06:29:19 -0600] PUBLISH "live" "username" "token=€™*t$—Ú]Y^«TÞÔ" - 437 292 "" "FMLE/3.0 (compatible; FMSc/1.0)" (0s)
+127.0.0.1 [11/Dec/2016:06:31:48 -0600] PUBLISH "live" "username" "token=€™*t$—Ú]Y^«TÞÔ" - 437 292 "" "FMLE/3.0 (compatible; FMSc/1.0)" (0s)
+127.0.0.1 [11/Dec/2016:06:37:28 -0600] PUBLISH "live" "username" "token=sOhL_ssNCBm4y9zIC0a-5Q==" - 461 292 "" "FMLE/3.0 (compatible; FMSc/1.0)" (0s)
+127.0.0.1 [11/Dec/2016:07:03:29 -0600] PUBLISH "live" "username" "token=1481461368290683500" - 850687 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (7s)
+127.0.0.1 [11/Dec/2016:07:03:29 -0600] PUBLISH "hls-live" "username" "" - 850827 409 "" "LNX.11,1,102,55" (7s)
+127.0.0.1 [11/Dec/2016:07:09:22 -0600] PUBLISH "live" "username2" "token=2PGGGAILqLU9sNp6y18ukw==" - 633352 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (6s)
+127.0.0.1 - - [12/Dec/2016:14:35:16 -0600] "GET /live/username2/index.m3u8 HTTP/1.1" 200 266 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:14:35:24 -0600] "GET /live/username2/index.m3u8 HTTP/1.1" 200 266 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:14:35:32 -0600] "GET /live/username2/index.m3u8 HTTP/1.1" 200 266 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:14:35:40 -0600] "GET /live/username2/index.m3u8 HTTP/1.1" 200 266 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:14:35:48 -0600] "GET /live/username2/index.m3u8 HTTP/1.1" 200 266 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:14:35:52 -0600] "GET /live/username2/index.m3u8 HTTP/1.1" 304 0 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:14:36:00 -0600] "GET /live/username2/index.m3u8 HTTP/1.1" 200 266 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:14:36:08 -0600] "GET /live/username2/index.m3u8 HTTP/1.1" 200 266 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:14:36:14 -0600] "GET /live/username2/index.m3u8 HTTP/1.1" 200 266 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:14:36:22 -0600] "GET /live/username2/index.m3u8 HTTP/1.1" 200 266 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:14:36:30 -0600] "GET /live/username2/index.m3u8 HTTP/1.1" 200 266 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:14:36:38 -0600] "GET /live/username2/index.m3u8 HTTP/1.1" 200 266 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:14:36:47 -0600] "GET /live/username2/index.m3u8 HTTP/1.1" 200 266 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:14:36:56 -0600] "GET /live/username2/index.m3u8 HTTP/1.1" 200 266 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:14:37:05 -0600] "GET /live/username2/index.m3u8 HTTP/1.1" 200 266 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:14:37:14 -0600] "GET /live/username2/index.m3u8 HTTP/1.1" 200 266 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:14:37:23 -0600] "GET /live/username2/index.m3u8 HTTP/1.1" 200 266 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:14:37:32 -0600] "GET /live/username2/index.m3u8 HTTP/1.1" 200 266 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:14:37:41 -0600] "GET /live/username2/index.m3u8 HTTP/1.1" 200 266 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:14:37:50 -0600] "GET /live/username2/index.m3u8 HTTP/1.1" 200 266 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:14:37:59 -0600] "GET /live/username2/index.m3u8 HTTP/1.1" 200 266 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:14:38:08 -0600] "GET /live/username2/index.m3u8 HTTP/1.1" 200 266 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:14:38:17 -0600] "GET /live/username2/index.m3u8 HTTP/1.1" 200 266 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:14:38:26 -0600] "GET /live/username2/index.m3u8 HTTP/1.1" 200 266 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:14:38:35 -0600] "GET /live/username2/index.m3u8 HTTP/1.1" 200 266 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:14:38:44 -0600] "GET /live/username2/index.m3u8 HTTP/1.1" 200 266 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:14:38:53 -0600] "GET /live/username2/index.m3u8 HTTP/1.1" 200 266 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:14:39:02 -0600] "GET /live/username2/index.m3u8 HTTP/1.1" 200 266 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:14:39:11 -0600] "GET /live/username2/index.m3u8 HTTP/1.1" 200 266 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:14:39:20 -0600] "GET /live/username2/index.m3u8 HTTP/1.1" 200 266 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:14:39:29 -0600] "GET /live/username2/index.m3u8 HTTP/1.1" 200 266 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:14:39:38 -0600] "GET /live/username2/index.m3u8 HTTP/1.1" 200 266 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:14:39:47 -0600] "GET /live/username2/index.m3u8 HTTP/1.1" 200 266 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:14:39:51 -0600] "GET /live/username2/index.m3u8 HTTP/1.1" 304 0 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:14:39:51 -0600] "GET /live/username2/1481575153808.ts HTTP/1.1" 200 1171804 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:14:39:52 -0600] "GET /live/username2/1481575162155.ts HTTP/1.1" 200 1114464 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:14:39:52 -0600] "GET /live/username2/1481575170480.ts HTTP/1.1" 200 1140032 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:14:39:52 -0600] "GET /live/username2/1481575178821.ts HTTP/1.1" 200 1133828 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:14:39:59 -0600] "GET /live/username2/index.m3u8 HTTP/1.1" 200 266 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:14:39:59 -0600] "GET /live/username2/1481575187156.ts HTTP/1.1" 200 1145296 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:14:40:07 -0600] "GET /live/username2/index.m3u8 HTTP/1.1" 200 266 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:14:40:07 -0600] "GET /live/username2/1481575195460.ts HTTP/1.1" 200 1140220 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:14:40:15 -0600] "GET /live/username2/index.m3u8 HTTP/1.1" 200 266 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:14:40:15 -0600] "GET /live/username2/1481575203810.ts HTTP/1.1" 200 1111644 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:14:40:23 -0600] "GET /live/username2/index.m3u8 HTTP/1.1" 200 266 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:14:40:23 -0600] "GET /live/username2/1481575212145.ts HTTP/1.1" 200 1158832 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:14:40:31 -0600] "GET /live/username2/index.m3u8 HTTP/1.1" 200 266 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:14:40:31 -0600] "GET /live/username2/1481575220489.ts HTTP/1.1" 200 1099424 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:14:40:39 -0600] "GET /live/username2/index.m3u8 HTTP/1.1" 200 266 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:14:40:39 -0600] "GET /live/username2/1481575228814.ts HTTP/1.1" 200 1103748 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:14:40:47 -0600] "GET /live/username2/index.m3u8 HTTP/1.1" 200 266 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:14:40:47 -0600] "GET /live/username2/1481575237156.ts HTTP/1.1" 200 1102996 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:14:40:55 -0600] "GET /live/username2/index.m3u8 HTTP/1.1" 200 266 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:14:40:55 -0600] "GET /live/username2/1481575245489.ts HTTP/1.1" 200 1106944 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:14:41:03 -0600] "GET /live/username2/index.m3u8 HTTP/1.1" 200 266 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:14:41:03 -0600] "GET /live/username2/1481575253822.ts HTTP/1.1" 200 1104500 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 [12/Dec/2016:14:41:09 -0600] PUBLISH "live" "username2" "token=2PGGGAILqLU9sNp6y18ukw==" - 67787262 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (8m 45s)
+127.0.0.1 [12/Dec/2016:14:41:09 -0600] PUBLISH "hls-live" "username2" "" - 67808575 617 "" "LNX.11,1,102,55" (8m 45s)
+127.0.0.1 - - [12/Dec/2016:14:41:11 -0600] "GET /live/username2/index.m3u8 HTTP/1.1" 200 266 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:14:41:11 -0600] "GET /live/username2/1481575262155.ts HTTP/1.1" 200 1057688 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:14:41:19 -0600] "GET /live/username2/index.m3u8 HTTP/1.1" 304 0 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:14:41:23 -0600] "GET /live/username2/index.m3u8 HTTP/1.1" 304 0 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:14:41:27 -0600] "GET /live/username2/index.m3u8 HTTP/1.1" 304 0 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:14:41:31 -0600] "GET /live/username2/index.m3u8 HTTP/1.1" 304 0 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:14:41:36 -0600] "GET /live/username2/index.m3u8 HTTP/1.1" 304 0 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:14:41:40 -0600] "GET /live/username2/index.m3u8 HTTP/1.1" 304 0 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:14:41:45 -0600] "GET /live/username2/index.m3u8 HTTP/1.1" 304 0 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:14:41:50 -0600] "GET /live/username2/index.m3u8 HTTP/1.1" 304 0 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:14:41:55 -0600] "GET /live/username2/index.m3u8 HTTP/1.1" 304 0 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:14:42:00 -0600] "GET /live/username2/index.m3u8 HTTP/1.1" 304 0 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:14:42:04 -0600] "GET /live/username2/index.m3u8 HTTP/1.1" 304 0 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:14:42:08 -0600] "GET /live/username2/index.m3u8 HTTP/1.1" 304 0 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:14:42:13 -0600] "GET /live/username2/index.m3u8 HTTP/1.1" 404 581 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:18:00:56 -0600] "GET /live/username2/index.m3u8 HTTP/1.1" 404 581 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:18:01:06 -0600] "GET /live/username2/index.m3u8 HTTP/1.1" 200 158 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:18:01:07 -0600] "GET /live/username2/1481587249223.ts HTTP/1.1" 200 1216360 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:18:01:07 -0600] "GET /live/username2/1481587257554.ts HTTP/1.1" 200 1210532 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:18:01:14 -0600] "GET /live/username2/index.m3u8 HTTP/1.1" 200 190 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:18:01:15 -0600] "GET /live/username2/1481587265890.ts HTTP/1.1" 200 1216172 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:18:01:22 -0600] "GET /live/username2/index.m3u8 HTTP/1.1" 200 222 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:18:01:23 -0600] "GET /live/username2/1481587274236.ts HTTP/1.1" 200 1211284 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:18:01:30 -0600] "GET /live/username2/index.m3u8 HTTP/1.1" 200 254 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:18:01:31 -0600] "GET /live/username2/1481587282556.ts HTTP/1.1" 200 1237228 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:18:01:38 -0600] "GET /live/username2/index.m3u8 HTTP/1.1" 304 0 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:18:01:43 -0600] "GET /live/username2/index.m3u8 HTTP/1.1" 200 286 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:18:01:43 -0600] "GET /live/username2/1481587290894.ts HTTP/1.1" 200 1129128 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:18:01:51 -0600] "GET /live/username2/index.m3u8 HTTP/1.1" 200 265 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:18:01:51 -0600] "GET /live/username2/1481587299226.ts HTTP/1.1" 200 1243620 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:18:01:59 -0600] "GET /live/username2/index.m3u8 HTTP/1.1" 200 265 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:18:01:59 -0600] "GET /live/username2/1481587307579.ts HTTP/1.1" 200 1251140 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:18:02:07 -0600] "GET /live/username2/index.m3u8 HTTP/1.1" 200 265 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:18:02:07 -0600] "GET /live/username2/1481587315911.ts HTTP/1.1" 200 1212600 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:18:02:15 -0600] "GET /live/username2/index.m3u8 HTTP/1.1" 200 265 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:18:02:15 -0600] "GET /live/username2/1481587324244.ts HTTP/1.1" 200 1208840 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:18:02:23 -0600] "GET /live/username2/index.m3u8 HTTP/1.1" 200 265 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:18:02:23 -0600] "GET /live/username2/1481587332565.ts HTTP/1.1" 200 1219932 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:18:02:31 -0600] "GET /live/username2/index.m3u8 HTTP/1.1" 200 265 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:18:02:31 -0600] "GET /live/username2/1481587340894.ts HTTP/1.1" 200 1158080 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:18:02:39 -0600] "GET /live/username2/index.m3u8 HTTP/1.1" 200 265 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:18:02:39 -0600] "GET /live/username2/1481587349229.ts HTTP/1.1" 200 1173872 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:18:02:47 -0600] "GET /live/username2/index.m3u8 HTTP/1.1" 200 265 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:18:02:47 -0600] "GET /live/username2/1481587357569.ts HTTP/1.1" 200 1205268 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:18:02:55 -0600] "GET /live/username2/index.m3u8 HTTP/1.1" 200 265 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:18:02:55 -0600] "GET /live/username2/1481587365891.ts HTTP/1.1" 200 1228016 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:18:03:03 -0600] "GET /live/username2/index.m3u8 HTTP/1.1" 200 266 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:18:03:03 -0600] "GET /live/username2/1481587374230.ts HTTP/1.1" 200 1212224 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:18:03:11 -0600] "GET /live/username2/index.m3u8 HTTP/1.1" 200 266 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:18:03:11 -0600] "GET /live/username2/1481587382568.ts HTTP/1.1" 200 1215420 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:18:03:19 -0600] "GET /live/username2/index.m3u8 HTTP/1.1" 304 0 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:18:03:23 -0600] "GET /live/username2/index.m3u8 HTTP/1.1" 200 266 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:18:03:23 -0600] "GET /live/username2/1481587390905.ts HTTP/1.1" 200 1205832 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:18:03:31 -0600] "GET /live/username2/index.m3u8 HTTP/1.1" 200 266 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:18:03:31 -0600] "GET /live/username2/1481587399234.ts HTTP/1.1" 200 1218804 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:18:03:39 -0600] "GET /live/username2/index.m3u8 HTTP/1.1" 200 266 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:18:03:39 -0600] "GET /live/username2/1481587407563.ts HTTP/1.1" 200 1193048 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:18:03:47 -0600] "GET /live/username2/index.m3u8 HTTP/1.1" 200 266 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:18:03:47 -0600] "GET /live/username2/1481587415898.ts HTTP/1.1" 200 1187032 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:18:03:55 -0600] "GET /live/username2/index.m3u8 HTTP/1.1" 200 266 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:18:03:55 -0600] "GET /live/username2/1481587424222.ts HTTP/1.1" 200 1214292 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:18:04:03 -0600] "GET /live/username2/index.m3u8 HTTP/1.1" 200 266 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 - - [12/Dec/2016:18:04:03 -0600] "GET /live/username2/1481587432561.ts HTTP/1.1" 200 1193424 "http://localhost:8080/user/username2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+127.0.0.1 [12/Dec/2016:18:04:11 -0600] PUBLISH "live" "username2" "token=2PGGGAILqLU9sNp6y18ukw==" - 27984478 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (3m 23s)
+127.0.0.1 [12/Dec/2016:18:04:11 -0600] PUBLISH "hls-live" "username2" "" - 27986807 489 "" "LNX.11,1,102,55" (3m 23s)

@@ -1,0 +1,638 @@
+2016/11/27 07:17:12 [emerg] 6216#5912: no "events" section in configuration
+2016/11/27 07:18:34 [emerg] 3512#2040: no "events" section in configuration
+2016/11/27 07:22:09 [emerg] 5704#2708: CreateDirectory() "/mnt/hls/" failed (3: The system cannot find the path specified)
+2016/11/27 07:22:50 [emerg] 4028#3208: no "events" section in configuration
+2016/11/27 07:25:48 [emerg] 7908#7860: no "events" section in configuration
+2016/11/27 07:26:10 [emerg] 7852#964: no "events" section in configuration
+2016/11/27 07:26:17 [emerg] 4664#4232: no "events" section in configuration
+2016/11/27 07:28:02 [notice] 2312#1160: sockinit() attempting to access sockapi
+2016/11/27 07:28:02 [notice] 2312#1160: Access to sockapi succeded!
+2016/11/27 07:28:02 [notice] 2312#1160: using sockapi from "4;"
+2016/11/28 21:15:32 [notice] 6320#6520: signal process started (stop)
+2016/12/04 20:35:01 [notice] 7812#5456: sockinit() attempting to access sockapi
+2016/12/04 20:35:01 [notice] 7812#5456: Access to sockapi succeded!
+2016/12/04 20:35:01 [notice] 7812#5456: using sockapi from "4;"
+2016/12/04 20:37:21 [notice] 8920#112: signal process started (stop)
+2016/12/04 20:37:43 [notice] 5284#8152: sockinit() attempting to access sockapi
+2016/12/04 20:37:43 [notice] 5284#8152: Access to sockapi succeded!
+2016/12/04 20:37:43 [notice] 5284#8152: using sockapi from "4;"
+2016/12/04 20:41:24 [emerg] 8444#248: "on_connect" directive is not allowed here in C:\nginx-rtmp/conf/nginx.conf:13
+2016/12/04 20:41:48 [emerg] 5664#8824: "on_connect" directive is not allowed here in C:\nginx-rtmp/conf/nginx.conf:13
+2016/12/04 20:42:08 [notice] 1840#8148: signal process started (stop)
+2016/12/04 20:42:25 [emerg] 1888#6116: "on_connect" directive is not allowed here in C:\nginx-rtmp/conf/nginx.conf:13
+2016/12/04 20:42:50 [emerg] 8472#7804: "on_connect" directive is not allowed here in C:\nginx-rtmp/conf/nginx.conf:13
+2016/12/04 20:45:58 [notice] 2876#8672: sockinit() attempting to access sockapi
+2016/12/04 20:45:58 [notice] 2876#8672: Access to sockapi succeded!
+2016/12/04 20:45:58 [notice] 2876#8672: using sockapi from "4;"
+2016/12/04 20:46:58 [notice] 6980#1588: signal process started (stop)
+2016/12/04 20:47:13 [notice] 1172#5252: sockinit() attempting to access sockapi
+2016/12/04 20:47:13 [notice] 1172#5252: Access to sockapi succeded!
+2016/12/04 20:47:13 [notice] 1172#5252: using sockapi from "4;"
+2016/12/04 21:12:03 [notice] 7736#8180: signal process started (stop)
+2016/12/04 21:12:21 [notice] 3756#8316: sockinit() attempting to access sockapi
+2016/12/04 21:12:21 [notice] 3756#8316: Access to sockapi succeded!
+2016/12/04 21:12:21 [notice] 3756#8316: using sockapi from "4;"
+2016/12/04 21:18:28 [emerg] 3036#3924: "echo" directive is not allowed here in C:\nginx-rtmp/conf/nginx.conf:12
+2016/12/04 21:20:38 [emerg] 8576#644: invalid number of arguments in "on_publish" directive in C:\nginx-rtmp/conf/nginx.conf:14
+2016/12/04 21:20:47 [notice] 7556#3172: signal process started (stop)
+2016/12/04 21:20:55 [notice] 4792#5292: sockinit() attempting to access sockapi
+2016/12/04 21:20:55 [notice] 4792#5292: Access to sockapi succeded!
+2016/12/04 21:20:55 [notice] 4792#5292: using sockapi from "4;"
+2016/12/04 21:24:53 [notice] 7716#8496: signal process started (stop)
+2016/12/04 21:25:13 [notice] 8532#7664: sockinit() attempting to access sockapi
+2016/12/04 21:25:13 [notice] 8532#7664: Access to sockapi succeded!
+2016/12/04 21:25:13 [notice] 8532#7664: using sockapi from "4;"
+2016/12/04 21:35:27 [notice] 10172#9276: signal process started (stop)
+2016/12/04 21:35:35 [notice] 5172#5892: sockinit() attempting to access sockapi
+2016/12/04 21:35:35 [notice] 5172#5892: Access to sockapi succeded!
+2016/12/04 21:35:35 [notice] 5172#5892: using sockapi from "4;"
+2016/12/04 21:38:27 [notice] 5964#9960: signal process started (stop)
+2016/12/04 21:38:40 [notice] 7936#10056: sockinit() attempting to access sockapi
+2016/12/04 21:38:40 [notice] 7936#10056: Access to sockapi succeded!
+2016/12/04 21:38:40 [notice] 7936#10056: using sockapi from "4;"
+2016/12/04 21:39:51 [notice] 4124#380: signal process started (stop)
+2016/12/04 21:40:16 [notice] 4192#5640: sockinit() attempting to access sockapi
+2016/12/04 21:40:16 [notice] 4192#5640: Access to sockapi succeded!
+2016/12/04 21:40:16 [notice] 4192#5640: using sockapi from "4;"
+2016/12/04 21:43:07 [notice] 9784#9960: signal process started (stop)
+2016/12/04 21:43:18 [notice] 6504#7836: sockinit() attempting to access sockapi
+2016/12/04 21:43:18 [notice] 6504#7836: Access to sockapi succeded!
+2016/12/04 21:43:18 [notice] 6504#7836: using sockapi from "4;"
+2016/12/04 21:45:25 [notice] 9608#9672: signal process started (stop)
+2016/12/04 21:45:28 [notice] 9428#5440: sockinit() attempting to access sockapi
+2016/12/04 21:45:28 [notice] 9428#5440: Access to sockapi succeded!
+2016/12/04 21:45:28 [notice] 9428#5440: using sockapi from "4;"
+2016/12/04 21:56:25 [notice] 4472#5744: signal process started (stop)
+2016/12/04 21:56:28 [notice] 6036#6068: sockinit() attempting to access sockapi
+2016/12/04 21:56:28 [notice] 6036#6068: Access to sockapi succeded!
+2016/12/04 21:56:28 [notice] 6036#6068: using sockapi from "4;"
+2016/12/04 21:56:56 [notice] 7804#9776: signal process started (stop)
+2016/12/04 21:57:19 [notice] 4632#4888: sockinit() attempting to access sockapi
+2016/12/04 21:57:19 [notice] 4632#4888: Access to sockapi succeded!
+2016/12/04 21:57:19 [notice] 4632#4888: using sockapi from "4;"
+2016/12/04 22:05:24 [notice] 1460#7496: signal process started (stop)
+2016/12/04 22:05:33 [notice] 3388#9324: sockinit() attempting to access sockapi
+2016/12/04 22:05:33 [notice] 3388#9324: Access to sockapi succeded!
+2016/12/04 22:05:33 [notice] 3388#9324: using sockapi from "4;"
+2016/12/04 22:06:15 [notice] 2332#6248: signal process started (stop)
+2016/12/04 22:06:22 [notice] 7400#8268: sockinit() attempting to access sockapi
+2016/12/04 22:06:22 [notice] 7400#8268: Access to sockapi succeded!
+2016/12/04 22:06:22 [notice] 7400#8268: using sockapi from "4;"
+2016/12/04 22:09:30 [notice] 9752#5048: signal process started (stop)
+2016/12/07 20:04:09 [notice] 9372#7988: sockinit() attempting to access sockapi
+2016/12/07 20:04:09 [notice] 9372#7988: Access to sockapi succeded!
+2016/12/07 20:04:09 [notice] 9372#7988: using sockapi from "4;"
+2016/12/07 20:25:09 [error] 9372#9692: relay: no address
+2016/12/07 20:25:43 [error] 9372#9692: relay: no address
+2016/12/07 20:26:20 [error] 9372#9692: relay: no address
+2016/12/07 20:31:20 [notice] 10220#5304: signal process started (stop)
+2016/12/07 20:31:26 [notice] 10164#9328: sockinit() attempting to access sockapi
+2016/12/07 20:31:26 [notice] 10164#9328: Access to sockapi succeded!
+2016/12/07 20:31:26 [notice] 10164#9328: using sockapi from "4;"
+2016/12/07 20:48:07 [notice] 7044#3768: signal process started (stop)
+2016/12/07 20:48:27 [notice] 9708#4212: sockinit() attempting to access sockapi
+2016/12/07 20:48:27 [notice] 9708#4212: Access to sockapi succeded!
+2016/12/07 20:48:27 [notice] 9708#4212: using sockapi from "4;"
+2016/12/07 20:51:07 [notice] 8720#10076: signal process started (stop)
+2016/12/07 20:51:14 [notice] 3540#2568: sockinit() attempting to access sockapi
+2016/12/07 20:51:14 [notice] 3540#2568: Access to sockapi succeded!
+2016/12/07 20:51:14 [notice] 3540#2568: using sockapi from "4;"
+2016/12/07 21:16:13 [notice] 112#9940: signal process started (stop)
+2016/12/08 09:29:39 [emerg] 6048#9288: CreateDirectory() "/var/www/live" failed (3: The system cannot find the path specified)
+2016/12/08 09:30:11 [emerg] 6080#8236: CreateDirectory() "/var/www/live" failed (3: The system cannot find the path specified)
+2016/12/08 09:30:21 [emerg] 10112#7256: CreateDirectory() "/var/www/live" failed (3: The system cannot find the path specified)
+2016/12/08 09:32:33 [emerg] 5464#7824: CreateFile() "C:/nginx-rtmp/var/www/live" failed (2: The system cannot find the file specified)
+2016/12/08 09:32:48 [emerg] 7640#1800: no "events" section in configuration
+2016/12/08 09:32:51 [emerg] 8568#6732: no "events" section in configuration
+2016/12/08 09:32:57 [emerg] 4040#6352: CreateFile() "C:/nginx-rtmp/var/www/live" failed (2: The system cannot find the file specified)
+2016/12/08 09:33:27 [emerg] 7448#7772: no "events" section in configuration
+2016/12/08 09:33:31 [emerg] 4252#6040: CreateDirectory() "/var/www/live" failed (3: The system cannot find the path specified)
+2016/12/08 09:34:11 [notice] 4404#1228: sockinit() attempting to access sockapi
+2016/12/08 09:34:11 [notice] 4404#1228: Access to sockapi succeded!
+2016/12/08 09:34:11 [notice] 4404#1228: using sockapi from "4;52;"
+2016/12/08 09:34:27 [error] 4404#10148: *1 notify: push 'test' to 'rtmp://localhost:1935/live/meme', client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:34:27 [error] 4404#10148: relay: no address
+2016/12/08 09:34:28 [error] 4404#10148: *4 hls: 'C:/nginx-rtmp/var/www/live' exists and is not a directory, client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:34:28 [error] 4404#10148: *4 hls: 'C:/nginx-rtmp/var/www/live' exists and is not a directory, client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:34:36 [error] 4404#10148: *4 hls: 'C:/nginx-rtmp/var/www/live' exists and is not a directory, client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:34:44 [error] 4404#10148: *4 hls: 'C:/nginx-rtmp/var/www/live' exists and is not a directory, client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:34:53 [error] 4404#10148: *4 hls: 'C:/nginx-rtmp/var/www/live' exists and is not a directory, client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:34:54 [error] 4404#10148: *5 CreateFile() "C:/var/www/live/meme" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /live/meme HTTP/1.1", host: "localhost"
+2016/12/08 09:34:59 [error] 4404#10148: *6 CreateFile() "C:/var/www/live/meme" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /live/meme HTTP/1.0", host: "localhost"
+2016/12/08 09:35:01 [error] 4404#10148: *4 hls: 'C:/nginx-rtmp/var/www/live' exists and is not a directory, client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:35:04 [error] 4404#10148: *7 CreateFile() "C:/var/www/live/meme" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /live/meme HTTP/1.0", host: "localhost:80"
+2016/12/08 09:35:09 [error] 4404#10148: *4 hls: 'C:/nginx-rtmp/var/www/live' exists and is not a directory, client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:35:40 [error] 4404#10148: *8 CreateFile() "C:/var/www/live/meme" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /live/meme HTTP/1.1", host: "localhost"
+2016/12/08 09:35:45 [error] 4404#10148: *9 CreateFile() "C:/var/www/live/meme" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /live/meme HTTP/1.0", host: "localhost"
+2016/12/08 09:35:50 [error] 4404#10148: *10 CreateFile() "C:/var/www/live/meme" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /live/meme HTTP/1.0", host: "localhost:80"
+2016/12/08 09:36:50 [error] 4404#10148: *11 CreateFile() "C:/var/www/live/test" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /live/test HTTP/1.1", host: "localhost"
+2016/12/08 09:36:55 [error] 4404#10148: *12 CreateFile() "C:/var/www/live/test" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /live/test HTTP/1.0", host: "localhost"
+2016/12/08 09:37:00 [error] 4404#10148: *13 CreateFile() "C:/var/www/live/test" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /live/test HTTP/1.0", host: "localhost:80"
+2016/12/08 09:37:30 [error] 4404#10148: *14 CreateFile() "C:/var/www/live/test.m3u8" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /live/test.m3u8 HTTP/1.1", host: "localhost"
+2016/12/08 09:37:35 [error] 4404#10148: *15 CreateFile() "C:/var/www/live/test.m3u8" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /live/test.m3u8 HTTP/1.0", host: "localhost"
+2016/12/08 09:37:40 [error] 4404#10148: *16 CreateFile() "C:/var/www/live/test.m3u8" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /live/test.m3u8 HTTP/1.0", host: "localhost:80"
+2016/12/08 09:38:40 [error] 4404#10148: *17 CreateFile() "C:/var/www/live/test/index.m3u8" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /live/test/index.m3u8 HTTP/1.1", host: "localhost"
+2016/12/08 09:38:45 [error] 4404#10148: *18 CreateFile() "C:/var/www/live/test/index.m3u8" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /live/test/index.m3u8 HTTP/1.0", host: "localhost"
+2016/12/08 09:38:50 [error] 4404#10148: *19 CreateFile() "C:/var/www/live/test/index.m3u8" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /live/test/index.m3u8 HTTP/1.0", host: "localhost:80"
+2016/12/08 09:39:06 [error] 4404#10148: *20 CreateFile() "C:/var/www/live/meme/index.m3u8" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /live/meme/index.m3u8 HTTP/1.1", host: "localhost"
+2016/12/08 09:39:11 [error] 4404#10148: *21 CreateFile() "C:/var/www/live/meme/index.m3u8" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /live/meme/index.m3u8 HTTP/1.0", host: "localhost"
+2016/12/08 09:39:16 [error] 4404#10148: *22 CreateFile() "C:/var/www/live/meme/index.m3u8" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /live/meme/index.m3u8 HTTP/1.0", host: "localhost:80"
+2016/12/08 09:40:43 [error] 4404#10148: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:40:51 [error] 4404#10148: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:40:59 [error] 4404#10148: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:41:08 [error] 4404#10148: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:41:11 [error] 4404#9520: hls: cleanup DeleteFile() failed on 'C:/nginx-rtmp/var/www/live/test/index.m3u8' (32: The process cannot access the file because it is being used by another process)
+2016/12/08 09:41:16 [error] 4404#10148: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:41:24 [error] 4404#10148: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:41:33 [error] 4404#10148: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:41:36 [error] 4404#10148: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:42:11 [error] 4404#9520: hls: cleanup DeleteFile() failed on 'C:/nginx-rtmp/var/www/live/test/index.m3u8' (32: The process cannot access the file because it is being used by another process)
+2016/12/08 09:43:11 [error] 4404#9520: hls: cleanup DeleteFile() failed on 'C:/nginx-rtmp/var/www/live/test/index.m3u8' (32: The process cannot access the file because it is being used by another process)
+2016/12/08 09:43:32 [notice] 2944#6864: signal process started (stop)
+2016/12/08 09:43:47 [notice] 9616#256: sockinit() attempting to access sockapi
+2016/12/08 09:43:47 [notice] 9616#256: Access to sockapi succeded!
+2016/12/08 09:43:47 [notice] 9616#256: using sockapi from "4;28;"
+2016/12/08 09:43:47 [error] 9616#3136: hls: cleanup DeleteFile() failed on 'C:/nginx-rtmp/var/www/live/test/index.m3u8' (32: The process cannot access the file because it is being used by another process)
+2016/12/08 09:43:57 [error] 9616#8344: *1 notify: push 'test' to 'rtmp://localhost:1935/live/meme', client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:43:57 [error] 9616#8344: relay: no address
+2016/12/08 09:44:06 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:44:14 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:44:23 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:44:31 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:44:39 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:44:47 [error] 9616#3136: hls: cleanup DeleteFile() failed on 'C:/nginx-rtmp/var/www/live/test/index.m3u8' (32: The process cannot access the file because it is being used by another process)
+2016/12/08 09:44:48 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:44:56 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:45:04 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:45:13 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:45:21 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:45:29 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:45:38 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:45:46 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:45:47 [error] 9616#3136: hls: cleanup DeleteFile() failed on 'C:/nginx-rtmp/var/www/live/test/index.m3u8' (32: The process cannot access the file because it is being used by another process)
+2016/12/08 09:45:54 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:45:59 [error] 9616#8344: *5 CreateFile() "C:/var/www/live/meme/index.m3u8" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /live/meme/index.m3u8 HTTP/1.1", host: "localhost"
+2016/12/08 09:46:03 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:46:04 [error] 9616#8344: *6 CreateFile() "C:/var/www/live/meme/index.m3u8" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /live/meme/index.m3u8 HTTP/1.0", host: "localhost"
+2016/12/08 09:46:09 [error] 9616#8344: *7 CreateFile() "C:/var/www/live/meme/index.m3u8" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /live/meme/index.m3u8 HTTP/1.0", host: "localhost:80"
+2016/12/08 09:46:11 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:46:19 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:46:28 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:46:36 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:46:44 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:46:47 [error] 9616#3136: hls: cleanup DeleteFile() failed on 'C:/nginx-rtmp/var/www/live/test/index.m3u8' (32: The process cannot access the file because it is being used by another process)
+2016/12/08 09:46:53 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:47:01 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:47:09 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:47:18 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:47:26 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:47:34 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:47:43 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:47:47 [error] 9616#3136: hls: cleanup DeleteFile() failed on 'C:/nginx-rtmp/var/www/live/test/index.m3u8' (32: The process cannot access the file because it is being used by another process)
+2016/12/08 09:47:51 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:47:59 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:48:08 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:48:14 [error] 9616#8344: *8 CreateFile() "C:/var/www/live/meme/index.m3u8" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /live/meme/index.m3u8 HTTP/1.1", host: "localhost"
+2016/12/08 09:48:16 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:48:19 [error] 9616#8344: *9 CreateFile() "C:/var/www/live/meme/index.m3u8" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /live/meme/index.m3u8 HTTP/1.0", host: "localhost"
+2016/12/08 09:48:24 [error] 9616#8344: *10 CreateFile() "C:/var/www/live/meme/index.m3u8" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /live/meme/index.m3u8 HTTP/1.0", host: "localhost:80"
+2016/12/08 09:48:24 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:48:33 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:48:41 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:48:47 [error] 9616#3136: hls: cleanup DeleteFile() failed on 'C:/nginx-rtmp/var/www/live/test/index.m3u8' (32: The process cannot access the file because it is being used by another process)
+2016/12/08 09:48:49 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:48:58 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:49:06 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:49:14 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:49:23 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:49:28 [error] 9616#8344: *11 CreateFile() "C:/var/www/live/test/index.m3u8" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /live/test/index.m3u8 HTTP/1.1", host: "localhost"
+2016/12/08 09:49:31 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:49:33 [error] 9616#8344: *12 CreateFile() "C:/var/www/live/test/index.m3u8" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /live/test/index.m3u8 HTTP/1.0", host: "localhost"
+2016/12/08 09:49:38 [error] 9616#8344: *13 CreateFile() "C:/var/www/live/test/index.m3u8" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /live/test/index.m3u8 HTTP/1.0", host: "localhost:80"
+2016/12/08 09:49:39 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:49:47 [error] 9616#3136: hls: cleanup DeleteFile() failed on 'C:/nginx-rtmp/var/www/live/test/index.m3u8' (32: The process cannot access the file because it is being used by another process)
+2016/12/08 09:49:48 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:49:56 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:50:04 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:50:13 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:50:21 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:50:29 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:50:38 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:50:46 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:50:47 [error] 9616#3136: hls: cleanup DeleteFile() failed on 'C:/nginx-rtmp/var/www/live/test/index.m3u8' (32: The process cannot access the file because it is being used by another process)
+2016/12/08 09:50:54 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:51:03 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:51:11 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:51:19 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:51:28 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:51:36 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:51:44 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:51:47 [error] 9616#3136: hls: cleanup DeleteFile() failed on 'C:/nginx-rtmp/var/www/live/test/index.m3u8' (32: The process cannot access the file because it is being used by another process)
+2016/12/08 09:51:53 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:52:01 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:52:09 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:52:18 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:52:26 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:52:34 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:52:43 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:52:47 [error] 9616#3136: hls: cleanup DeleteFile() failed on 'C:/nginx-rtmp/var/www/live/test/index.m3u8' (32: The process cannot access the file because it is being used by another process)
+2016/12/08 09:52:51 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:52:59 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:53:08 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:53:15 [error] 9616#8344: *16 CreateFile() "C:/var/www/live/meme/index.m3u8" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /live/meme/index.m3u8 HTTP/1.1", host: "localhost"
+2016/12/08 09:53:16 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:53:20 [error] 9616#8344: *17 CreateFile() "C:/var/www/live/meme/index.m3u8" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /live/meme/index.m3u8 HTTP/1.0", host: "localhost"
+2016/12/08 09:53:24 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:53:25 [error] 9616#8344: *18 CreateFile() "C:/var/www/live/meme/index.m3u8" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /live/meme/index.m3u8 HTTP/1.0", host: "localhost:80"
+2016/12/08 09:53:33 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:53:41 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:53:47 [error] 9616#3136: hls: cleanup DeleteFile() failed on 'C:/nginx-rtmp/var/www/live/test/index.m3u8' (32: The process cannot access the file because it is being used by another process)
+2016/12/08 09:53:49 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:53:58 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:54:06 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:54:14 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:54:23 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:54:31 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:54:39 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:54:47 [error] 9616#3136: hls: cleanup DeleteFile() failed on 'C:/nginx-rtmp/var/www/live/test/index.m3u8' (32: The process cannot access the file because it is being used by another process)
+2016/12/08 09:54:48 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:54:52 [error] 9616#8344: *19 CreateFile() "C:/var/www/live/test/index.m3u8" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /live/test/index.m3u8 HTTP/1.1", host: "localhost"
+2016/12/08 09:54:56 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:54:57 [error] 9616#8344: *20 CreateFile() "C:/var/www/live/test/index.m3u8" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /live/test/index.m3u8 HTTP/1.0", host: "localhost"
+2016/12/08 09:55:02 [error] 9616#8344: *21 CreateFile() "C:/var/www/live/test/index.m3u8" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /live/test/index.m3u8 HTTP/1.0", host: "localhost:80"
+2016/12/08 09:55:04 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:55:13 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:55:21 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:55:29 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:55:38 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:55:46 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:55:47 [error] 9616#3136: hls: cleanup DeleteFile() failed on 'C:/nginx-rtmp/var/www/live/test/index.m3u8' (32: The process cannot access the file because it is being used by another process)
+2016/12/08 09:55:54 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:56:03 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:56:11 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:56:15 [error] 9616#8344: *22 CreateFile() "C:/var/www/live/test/index.m3u8" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /live/test/index.m3u8 HTTP/1.1", host: "localhost"
+2016/12/08 09:56:16 [error] 9616#8344: *22 CreateFile() "C:/var/www/favicon.ico" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/live/test/index.m3u8"
+2016/12/08 09:56:19 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:56:22 [error] 9616#8344: *22 CreateFile() "C:/var/www/live/meme/index.m3u8" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /live/meme/index.m3u8 HTTP/1.1", host: "localhost"
+2016/12/08 09:56:28 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:56:28 [error] 9616#8344: *22 CreateFile() "C:/var/www/live/meme" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /live/meme HTTP/1.1", host: "localhost"
+2016/12/08 09:56:33 [error] 9616#8344: *22 CreateFile() "C:/var/www/live/meme.m3u8" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /live/meme.m3u8 HTTP/1.1", host: "localhost"
+2016/12/08 09:56:36 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:56:44 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:56:47 [error] 9616#3136: hls: cleanup DeleteFile() failed on 'C:/nginx-rtmp/var/www/live/test/index.m3u8' (32: The process cannot access the file because it is being used by another process)
+2016/12/08 09:56:53 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:57:01 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:57:09 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:57:18 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:57:26 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:57:28 [error] 9616#8344: *22 CreateFile() "C:/var/www/live/meme/index.m3u8" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /live/meme/index.m3u8 HTTP/1.1", host: "localhost"
+2016/12/08 09:57:34 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:57:43 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:57:47 [error] 9616#3136: hls: cleanup DeleteFile() failed on 'C:/nginx-rtmp/var/www/live/test/index.m3u8' (32: The process cannot access the file because it is being used by another process)
+2016/12/08 09:57:51 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:57:59 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:58:08 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:58:16 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:58:24 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:58:33 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:58:41 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:58:47 [error] 9616#3136: hls: cleanup DeleteFile() failed on 'C:/nginx-rtmp/var/www/live/test/index.m3u8' (32: The process cannot access the file because it is being used by another process)
+2016/12/08 09:58:49 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:58:58 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:59:06 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:59:14 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:59:23 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:59:31 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:59:39 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:59:47 [error] 9616#3136: hls: cleanup DeleteFile() failed on 'C:/nginx-rtmp/var/www/live/test/index.m3u8' (32: The process cannot access the file because it is being used by another process)
+2016/12/08 09:59:48 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 09:59:56 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:00:01 [notice] 2080#1280: signal process started (stop)
+2016/12/08 10:00:04 [error] 9616#8344: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:00:09 [emerg] 7632#5428: CreateDirectory() "/var/www/live" failed (3: The system cannot find the path specified)
+2016/12/08 10:00:55 [emerg] 5556#4832: CreateDirectory() "/var/www/live/" failed (3: The system cannot find the path specified)
+2016/12/08 10:01:20 [notice] 4464#5084: sockinit() attempting to access sockapi
+2016/12/08 10:01:20 [notice] 4464#5084: Access to sockapi succeded!
+2016/12/08 10:01:20 [notice] 4464#5084: using sockapi from "4;28;"
+2016/12/08 10:01:50 [error] 4464#9744: *1 notify: push 'test' to 'rtmp://localhost:1935/live/meme', client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:01:50 [error] 4464#9744: relay: no address
+2016/12/08 10:02:11 [error] 4464#9744: *5 CreateFile() "C:/var/www/live/meme/index.m3u8" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /live/meme/index.m3u8 HTTP/1.1", host: "localhost"
+2016/12/08 10:02:16 [error] 4464#9744: *6 CreateFile() "C:/var/www/live/meme/index.m3u8" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /live/meme/index.m3u8 HTTP/1.0", host: "localhost"
+2016/12/08 10:02:21 [error] 4464#9744: *7 CreateFile() "C:/var/www/live/meme/index.m3u8" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /live/meme/index.m3u8 HTTP/1.0", host: "localhost:80"
+2016/12/08 10:03:32 [error] 4464#9744: *8 CreateFile() "C:/var/www/live/meme/index.m3u8" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /live/meme/index.m3u8 HTTP/1.1", host: "localhost"
+2016/12/08 10:03:37 [error] 4464#9744: *9 CreateFile() "C:/var/www/live/meme/index.m3u8" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /live/meme/index.m3u8 HTTP/1.0", host: "localhost"
+2016/12/08 10:03:42 [error] 4464#9744: *10 CreateFile() "C:/var/www/live/meme/index.m3u8" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /live/meme/index.m3u8 HTTP/1.0", host: "localhost:80"
+2016/12/08 10:03:56 [error] 4464#9744: *11 CreateFile() "C:/var/www/live/meme/index.m3u8" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /live/meme/index.m3u8 HTTP/1.1", host: "localhost"
+2016/12/08 10:03:59 [error] 4464#9744: *11 CreateFile() "C:/var/www/live/test/index.m3u8" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /live/test/index.m3u8 HTTP/1.1", host: "localhost"
+2016/12/08 10:09:42 [error] 4464#9744: *13 "C:/var/www/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET / HTTP/1.1", host: "localhost"
+2016/12/08 10:10:57 [notice] 5452#5264: signal process started (stop)
+2016/12/08 10:11:05 [notice] 3096#9108: sockinit() attempting to access sockapi
+2016/12/08 10:11:05 [notice] 3096#9108: Access to sockapi succeded!
+2016/12/08 10:11:05 [notice] 3096#9108: using sockapi from "4;36;"
+2016/12/08 10:11:26 [error] 3096#1976: *5 CreateFile() "C:/var/www/live/meme/index.m3u8" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /live/meme/index.m3u8 HTTP/1.1", host: "localhost"
+2016/12/08 10:11:31 [error] 3096#1976: *6 CreateFile() "C:/var/www/live/meme/index.m3u8" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /live/meme/index.m3u8 HTTP/1.0", host: "localhost"
+2016/12/08 10:11:36 [error] 3096#1976: *7 CreateFile() "C:/var/www/live/meme/index.m3u8" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /live/meme/index.m3u8 HTTP/1.0", host: "localhost:80"
+2016/12/08 10:11:46 [error] 3096#1976: *8 CreateFile() "C:/var/www/live/meme/index.m3u8" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /live/meme/index.m3u8 HTTP/1.1", host: "localhost"
+2016/12/08 10:13:36 [error] 3096#1976: *10 notify: push 'test' to 'rtmp://localhost:1935/live/meme', client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:13:36 [error] 3096#1976: relay: no address
+2016/12/08 10:13:47 [error] 3096#1976: *13 CreateFile() "C:/var/www/live/meme/index.m3u8" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /live/meme/index.m3u8 HTTP/1.1", host: "localhost"
+2016/12/08 10:13:52 [error] 3096#1976: *14 CreateFile() "C:/var/www/live/meme/index.m3u8" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /live/meme/index.m3u8 HTTP/1.0", host: "localhost"
+2016/12/08 10:13:57 [error] 3096#1976: *15 CreateFile() "C:/var/www/live/meme/index.m3u8" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /live/meme/index.m3u8 HTTP/1.0", host: "localhost:80"
+2016/12/08 10:14:02 [error] 3096#1976: *16 CreateFile() "C:/var/www/live/meme/index.m3u8" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /live/meme/index.m3u8 HTTP/1.1", host: "localhost"
+2016/12/08 10:14:03 [error] 3096#1976: *16 CreateFile() "C:/var/www/live/meme/index.m3u8" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /live/meme/index.m3u8 HTTP/1.1", host: "localhost"
+2016/12/08 10:14:30 [error] 3096#1976: *18 notify: push 'test' to 'rtmp://localhost:1935/live/meme', client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:14:30 [error] 3096#1976: relay: no address
+2016/12/08 10:16:24 [notice] 7208#3712: signal process started (stop)
+2016/12/08 10:16:28 [notice] 9160#1256: sockinit() attempting to access sockapi
+2016/12/08 10:16:28 [notice] 9160#1256: Access to sockapi succeded!
+2016/12/08 10:16:28 [notice] 9160#1256: using sockapi from "4;36;"
+2016/12/08 10:16:28 [error] 9160#1240: hls: cleanup DeleteFile() failed on 'C:/nginx-rtmp/var/www/live/test/index.m3u8' (32: The process cannot access the file because it is being used by another process)
+2016/12/08 10:16:37 [error] 9160#5704: *1 notify: push 'test' to 'rtmp://localhost:1935/live/meme', client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:16:37 [error] 9160#5704: relay: no address
+2016/12/08 10:16:46 [error] 9160#5704: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:16:54 [error] 9160#5704: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:16:59 [error] 9160#5704: *5 CreateFile() "C:/var/www/live/meme/index.m3u8" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /live/meme/index.m3u8 HTTP/1.1", host: "localhost"
+2016/12/08 10:17:03 [error] 9160#5704: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:17:04 [error] 9160#5704: *6 CreateFile() "C:/var/www/live/meme/index.m3u8" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /live/meme/index.m3u8 HTTP/1.0", host: "localhost"
+2016/12/08 10:17:09 [error] 9160#5704: *7 CreateFile() "C:/var/www/live/meme/index.m3u8" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /live/meme/index.m3u8 HTTP/1.0", host: "localhost:80"
+2016/12/08 10:17:11 [error] 9160#5704: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:17:19 [error] 9160#5704: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:17:19 [error] 9160#5704: *8 CreateFile() "C:/var/www/live/meme/index.m3u8" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /live/meme/index.m3u8 HTTP/1.1", host: "localhost"
+2016/12/08 10:17:22 [error] 9160#5704: *8 CreateFile() "C:/var/www/live/test/index.m3u8" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /live/test/index.m3u8 HTTP/1.1", host: "localhost"
+2016/12/08 10:17:28 [error] 9160#5704: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:17:28 [error] 9160#1240: hls: cleanup DeleteFile() failed on 'C:/nginx-rtmp/var/www/live/test/index.m3u8' (32: The process cannot access the file because it is being used by another process)
+2016/12/08 10:17:36 [error] 9160#5704: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:17:44 [error] 9160#5704: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:17:53 [error] 9160#5704: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:18:01 [error] 9160#5704: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:18:09 [error] 9160#5704: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:18:18 [error] 9160#5704: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:18:26 [error] 9160#5704: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:18:28 [error] 9160#1240: hls: cleanup DeleteFile() failed on 'C:/nginx-rtmp/var/www/live/test/index.m3u8' (32: The process cannot access the file because it is being used by another process)
+2016/12/08 10:18:34 [error] 9160#5704: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:18:43 [error] 9160#5704: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:18:51 [error] 9160#5704: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:18:58 [notice] 9920#5976: signal process started (stop)
+2016/12/08 10:18:59 [error] 9160#5704: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:19:04 [notice] 9720#8412: sockinit() attempting to access sockapi
+2016/12/08 10:19:04 [notice] 9720#8412: Access to sockapi succeded!
+2016/12/08 10:19:04 [notice] 9720#8412: using sockapi from "4;36;"
+2016/12/08 10:19:04 [error] 9720#3424: hls: cleanup DeleteFile() failed on 'C:/nginx-rtmp/var/www/live/test/index.m3u8' (32: The process cannot access the file because it is being used by another process)
+2016/12/08 10:19:09 [error] 9720#8980: *1 notify: push 'test' to 'rtmp://localhost:1935/live/meme', client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:19:09 [error] 9720#8980: relay: no address
+2016/12/08 10:19:19 [error] 9720#8980: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:19:27 [error] 9720#8980: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:19:35 [error] 9720#8980: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:19:44 [error] 9720#8980: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:19:52 [error] 9720#8980: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:20:00 [error] 9720#8980: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:20:04 [error] 9720#3424: hls: cleanup DeleteFile() failed on 'C:/nginx-rtmp/var/www/live/test/index.m3u8' (32: The process cannot access the file because it is being used by another process)
+2016/12/08 10:20:09 [error] 9720#8980: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:20:17 [error] 9720#8980: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:20:25 [error] 9720#8980: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:20:34 [error] 9720#8980: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:20:42 [error] 9720#8980: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:20:50 [error] 9720#8980: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:20:59 [error] 9720#8980: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:21:04 [error] 9720#3424: hls: cleanup DeleteFile() failed on 'C:/nginx-rtmp/var/www/live/test/index.m3u8' (32: The process cannot access the file because it is being used by another process)
+2016/12/08 10:21:07 [error] 9720#8980: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:21:15 [error] 9720#8980: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:21:24 [error] 9720#8980: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:21:32 [error] 9720#8980: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:21:40 [error] 9720#8980: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:21:49 [error] 9720#8980: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:21:57 [error] 9720#8980: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:22:04 [error] 9720#3424: hls: cleanup DeleteFile() failed on 'C:/nginx-rtmp/var/www/live/test/index.m3u8' (32: The process cannot access the file because it is being used by another process)
+2016/12/08 10:22:05 [error] 9720#8980: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:22:14 [error] 9720#8980: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:22:22 [error] 9720#8980: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:22:30 [error] 9720#8980: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:22:39 [error] 9720#8980: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:22:47 [error] 9720#8980: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:22:55 [error] 9720#8980: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:23:04 [error] 9720#8980: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:23:05 [error] 9720#3424: hls: cleanup DeleteFile() failed on 'C:/nginx-rtmp/var/www/live/test/index.m3u8' (32: The process cannot access the file because it is being used by another process)
+2016/12/08 10:23:12 [error] 9720#8980: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:23:20 [error] 9720#8980: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:23:29 [error] 9720#8980: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:23:37 [error] 9720#8980: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:23:45 [error] 9720#8980: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:23:54 [error] 9720#8980: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:24:02 [error] 9720#8980: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:24:02 [error] 9720#8980: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:24:04 [error] 9720#3424: hls: cleanup DeleteFile() failed on 'C:/nginx-rtmp/var/www/live/test/index.m3u8' (32: The process cannot access the file because it is being used by another process)
+2016/12/08 10:25:05 [error] 9720#3424: hls: cleanup DeleteFile() failed on 'C:/nginx-rtmp/var/www/live/test/index.m3u8' (32: The process cannot access the file because it is being used by another process)
+2016/12/08 10:26:05 [error] 9720#3424: hls: cleanup DeleteFile() failed on 'C:/nginx-rtmp/var/www/live/test/index.m3u8' (32: The process cannot access the file because it is being used by another process)
+2016/12/08 10:27:05 [error] 9720#3424: hls: cleanup DeleteFile() failed on 'C:/nginx-rtmp/var/www/live/test/index.m3u8' (32: The process cannot access the file because it is being used by another process)
+2016/12/08 10:28:05 [error] 9720#3424: hls: cleanup DeleteFile() failed on 'C:/nginx-rtmp/var/www/live/test/index.m3u8' (32: The process cannot access the file because it is being used by another process)
+2016/12/08 10:29:05 [error] 9720#3424: hls: cleanup DeleteFile() failed on 'C:/nginx-rtmp/var/www/live/test/index.m3u8' (32: The process cannot access the file because it is being used by another process)
+2016/12/08 10:30:05 [error] 9720#3424: hls: cleanup DeleteFile() failed on 'C:/nginx-rtmp/var/www/live/test/index.m3u8' (32: The process cannot access the file because it is being used by another process)
+2016/12/08 10:31:05 [error] 9720#3424: hls: cleanup DeleteFile() failed on 'C:/nginx-rtmp/var/www/live/test/index.m3u8' (32: The process cannot access the file because it is being used by another process)
+2016/12/08 10:32:05 [error] 9720#3424: hls: cleanup DeleteFile() failed on 'C:/nginx-rtmp/var/www/live/test/index.m3u8' (32: The process cannot access the file because it is being used by another process)
+2016/12/08 10:33:05 [error] 9720#3424: hls: cleanup DeleteFile() failed on 'C:/nginx-rtmp/var/www/live/test/index.m3u8' (32: The process cannot access the file because it is being used by another process)
+2016/12/08 10:33:47 [notice] 5412#5992: signal process started (stop)
+2016/12/08 10:33:59 [notice] 9924#9932: sockinit() attempting to access sockapi
+2016/12/08 10:33:59 [notice] 9924#9932: Access to sockapi succeded!
+2016/12/08 10:33:59 [notice] 9924#9932: using sockapi from "4;36;"
+2016/12/08 10:33:59 [error] 9924#8272: hls: cleanup DeleteFile() failed on 'C:/nginx-rtmp/var/www/live/test/index.m3u8' (32: The process cannot access the file because it is being used by another process)
+2016/12/08 10:34:59 [error] 9924#8272: hls: cleanup DeleteFile() failed on 'C:/nginx-rtmp/var/www/live/test/index.m3u8' (32: The process cannot access the file because it is being used by another process)
+2016/12/08 10:35:59 [error] 9924#8272: hls: cleanup DeleteFile() failed on 'C:/nginx-rtmp/var/www/live/test/index.m3u8' (32: The process cannot access the file because it is being used by another process)
+2016/12/08 10:36:59 [error] 9924#8272: hls: cleanup DeleteFile() failed on 'C:/nginx-rtmp/var/www/live/test/index.m3u8' (32: The process cannot access the file because it is being used by another process)
+2016/12/08 10:37:59 [error] 9924#8272: hls: cleanup DeleteFile() failed on 'C:/nginx-rtmp/var/www/live/test/index.m3u8' (32: The process cannot access the file because it is being used by another process)
+2016/12/08 10:38:49 [notice] 3000#9840: signal process started (stop)
+2016/12/08 10:39:01 [notice] 9260#8956: sockinit() attempting to access sockapi
+2016/12/08 10:39:01 [notice] 9260#8956: Access to sockapi succeded!
+2016/12/08 10:39:01 [notice] 9260#8956: using sockapi from "4;36;"
+2016/12/08 10:39:01 [error] 9260#10120: hls: cleanup DeleteFile() failed on 'C:/nginx-rtmp/var/www/live/test/index.m3u8' (32: The process cannot access the file because it is being used by another process)
+2016/12/08 10:39:13 [error] 9260#4832: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:39:22 [error] 9260#4832: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:39:30 [error] 9260#4832: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:39:38 [error] 9260#4832: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:39:47 [error] 9260#4832: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:39:55 [error] 9260#4832: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:40:01 [error] 9260#10120: hls: cleanup DeleteFile() failed on 'C:/nginx-rtmp/var/www/live/test/index.m3u8' (32: The process cannot access the file because it is being used by another process)
+2016/12/08 10:40:03 [error] 9260#4832: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:40:12 [error] 9260#4832: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:40:20 [error] 9260#4832: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:40:28 [error] 9260#4832: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:40:37 [error] 9260#4832: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:40:45 [error] 9260#4832: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:40:54 [error] 9260#4832: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:41:01 [error] 9260#10120: hls: cleanup DeleteFile() failed on 'C:/nginx-rtmp/var/www/live/test/index.m3u8' (32: The process cannot access the file because it is being used by another process)
+2016/12/08 10:41:02 [error] 9260#4832: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:41:10 [error] 9260#4832: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:41:19 [error] 9260#4832: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:41:27 [error] 9260#4832: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:41:35 [error] 9260#4832: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:41:44 [error] 9260#4832: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:41:52 [error] 9260#4832: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:42:00 [error] 9260#4832: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:42:01 [error] 9260#10120: hls: cleanup DeleteFile() failed on 'C:/nginx-rtmp/var/www/live/test/index.m3u8' (32: The process cannot access the file because it is being used by another process)
+2016/12/08 10:42:09 [error] 9260#4832: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:42:17 [error] 9260#4832: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:42:25 [error] 9260#4832: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:42:34 [error] 9260#4832: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:42:42 [error] 9260#4832: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:42:50 [error] 9260#4832: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:42:54 [error] 9260#4832: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:43:01 [error] 9260#10120: hls: cleanup DeleteFile() failed on 'C:/nginx-rtmp/var/www/live/test/index.m3u8' (32: The process cannot access the file because it is being used by another process)
+2016/12/08 10:44:00 [error] 9260#10120: hls: cleanup DeleteFile() failed on 'C:/nginx-rtmp/var/www/live/test/index.m3u8' (32: The process cannot access the file because it is being used by another process)
+2016/12/08 10:45:00 [error] 9260#10120: hls: cleanup DeleteFile() failed on 'C:/nginx-rtmp/var/www/live/test/index.m3u8' (32: The process cannot access the file because it is being used by another process)
+2016/12/08 10:45:31 [error] 9260#4832: *13 CreateFile() "C:/var/www/live/test/index.m3u8" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /live/test/index.m3u8 HTTP/1.1", host: "localhost"
+2016/12/08 10:45:36 [error] 9260#4832: *14 CreateFile() "C:/var/www/live/test/index.m3u8" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /live/test/index.m3u8 HTTP/1.0", host: "localhost"
+2016/12/08 10:45:41 [error] 9260#4832: *15 CreateFile() "C:/var/www/live/test/index.m3u8" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /live/test/index.m3u8 HTTP/1.0", host: "localhost:80"
+2016/12/08 10:45:57 [error] 9260#4832: *16 CreateFile() "C:/var/www/live/test/index.m3u8" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /live/test/index.m3u8 HTTP/1.1", host: "localhost"
+2016/12/08 10:46:01 [error] 9260#10120: hls: cleanup DeleteFile() failed on 'C:/nginx-rtmp/var/www/live/test/index.m3u8' (32: The process cannot access the file because it is being used by another process)
+2016/12/08 10:46:24 [error] 9260#4832: *19 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:46:32 [error] 9260#4832: *19 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:46:40 [error] 9260#4832: *19 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:46:49 [error] 9260#4832: *19 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:46:57 [error] 9260#4832: *19 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:47:01 [error] 9260#10120: hls: cleanup DeleteFile() failed on 'C:/nginx-rtmp/var/www/live/test/index.m3u8' (32: The process cannot access the file because it is being used by another process)
+2016/12/08 10:47:05 [error] 9260#4832: *19 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:47:14 [error] 9260#4832: *19 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:47:22 [error] 9260#4832: *19 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:47:30 [error] 9260#4832: *19 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:47:39 [error] 9260#4832: *19 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:47:47 [error] 9260#4832: *19 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:47:55 [error] 9260#4832: *19 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:48:01 [error] 9260#10120: hls: cleanup DeleteFile() failed on 'C:/nginx-rtmp/var/www/live/test/index.m3u8' (32: The process cannot access the file because it is being used by another process)
+2016/12/08 10:48:04 [error] 9260#4832: *19 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:48:12 [error] 9260#4832: *19 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:48:20 [error] 9260#4832: *19 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:48:29 [error] 9260#4832: *19 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:48:37 [error] 9260#4832: *19 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:48:45 [error] 9260#4832: *19 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:48:54 [error] 9260#4832: *19 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:49:01 [error] 9260#10120: hls: cleanup DeleteFile() failed on 'C:/nginx-rtmp/var/www/live/test/index.m3u8' (32: The process cannot access the file because it is being used by another process)
+2016/12/08 10:49:02 [error] 9260#4832: *19 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:49:10 [error] 9260#4832: *19 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:49:19 [error] 9260#4832: *19 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:49:27 [error] 9260#4832: *19 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:49:35 [error] 9260#4832: *19 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:49:44 [error] 9260#4832: *19 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:49:52 [error] 9260#4832: *19 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:50:00 [error] 9260#4832: *19 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:50:01 [error] 9260#10120: hls: cleanup DeleteFile() failed on 'C:/nginx-rtmp/var/www/live/test/index.m3u8' (32: The process cannot access the file because it is being used by another process)
+2016/12/08 10:50:09 [error] 9260#4832: *19 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:50:17 [error] 9260#4832: *19 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:50:25 [error] 9260#4832: *19 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:50:34 [error] 9260#4832: *19 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:50:42 [error] 9260#4832: *19 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:50:50 [error] 9260#4832: *19 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:50:59 [error] 9260#4832: *19 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:51:01 [error] 9260#10120: hls: cleanup DeleteFile() failed on 'C:/nginx-rtmp/var/www/live/test/index.m3u8' (32: The process cannot access the file because it is being used by another process)
+2016/12/08 10:51:07 [error] 9260#4832: *19 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:51:15 [error] 9260#4832: *19 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:51:24 [error] 9260#4832: *19 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:51:32 [error] 9260#4832: *19 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:51:40 [error] 9260#4832: *19 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:51:49 [error] 9260#4832: *19 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:51:57 [error] 9260#4832: *19 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:52:01 [error] 9260#10120: hls: cleanup DeleteFile() failed on 'C:/nginx-rtmp/var/www/live/test/index.m3u8' (32: The process cannot access the file because it is being used by another process)
+2016/12/08 10:52:05 [error] 9260#4832: *19 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:52:14 [error] 9260#4832: *19 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:52:22 [error] 9260#4832: *19 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:52:30 [error] 9260#4832: *19 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:52:39 [error] 9260#4832: *19 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:52:47 [error] 9260#4832: *19 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:52:55 [error] 9260#4832: *19 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:53:01 [error] 9260#10120: hls: cleanup DeleteFile() failed on 'C:/nginx-rtmp/var/www/live/test/index.m3u8' (32: The process cannot access the file because it is being used by another process)
+2016/12/08 10:53:04 [error] 9260#4832: *19 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:53:12 [error] 9260#4832: *19 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:53:20 [error] 9260#4832: *19 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:53:29 [error] 9260#4832: *19 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:53:37 [error] 9260#4832: *19 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:53:45 [error] 9260#4832: *19 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:53:46 [emerg] 3660#7344: "server" directive is not allowed here in C:\nginx-rtmp/conf/nginx.conf:6
+2016/12/08 10:53:54 [error] 9260#4832: *19 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:54:01 [error] 9260#10120: hls: cleanup DeleteFile() failed on 'C:/nginx-rtmp/var/www/live/test/index.m3u8' (32: The process cannot access the file because it is being used by another process)
+2016/12/08 10:54:02 [error] 9260#4832: *19 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:54:02 [notice] 4220#6500: signal process started (stop)
+2016/12/08 10:55:10 [notice] 1456#1120: sockinit() attempting to access sockapi
+2016/12/08 10:55:10 [notice] 1456#1120: Access to sockapi succeded!
+2016/12/08 10:55:10 [notice] 1456#1120: using sockapi from "4;36;"
+2016/12/08 10:55:10 [error] 1456#528: hls: cleanup DeleteFile() failed on 'C:/nginx-rtmp/var/www/live/test/index.m3u8' (32: The process cannot access the file because it is being used by another process)
+2016/12/08 10:55:21 [error] 1456#9688: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:55:30 [error] 1456#9688: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:55:31 [error] 1456#9688: *5 CreateFile() "C:/var/www/live/test/index.m3u8" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /live/test/index.m3u8 HTTP/1.1", host: "localhost"
+2016/12/08 10:55:36 [error] 1456#9688: *6 CreateFile() "C:/var/www/live/test/index.m3u8" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /live/test/index.m3u8 HTTP/1.0", host: "localhost"
+2016/12/08 10:55:38 [error] 1456#9688: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:55:41 [error] 1456#9688: *7 CreateFile() "C:/var/www/live/test/index.m3u8" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /live/test/index.m3u8 HTTP/1.0", host: "localhost:80"
+2016/12/08 10:55:46 [error] 1456#9688: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:55:55 [error] 1456#9688: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:56:03 [error] 1456#9688: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:56:10 [error] 1456#528: hls: cleanup DeleteFile() failed on 'C:/nginx-rtmp/var/www/live/test/index.m3u8' (32: The process cannot access the file because it is being used by another process)
+2016/12/08 10:56:11 [error] 1456#9688: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:56:16 [error] 1456#9688: *8 CreateFile() "C:/var/www/live/meme/index.m3u8" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /live/meme/index.m3u8 HTTP/1.1", host: "localhost"
+2016/12/08 10:56:16 [error] 1456#9688: *9 CreateFile() "C:/var/www/live/test/index.m3u8" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /live/test/index.m3u8 HTTP/1.1", host: "localhost"
+2016/12/08 10:56:20 [error] 1456#9688: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:56:21 [error] 1456#9688: *11 CreateFile() "C:/var/www/live/meme/index.m3u8" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /live/meme/index.m3u8 HTTP/1.0", host: "localhost"
+2016/12/08 10:56:26 [error] 1456#9688: *12 CreateFile() "C:/var/www/live/meme/index.m3u8" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /live/meme/index.m3u8 HTTP/1.0", host: "localhost:80"
+2016/12/08 10:56:28 [error] 1456#9688: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:56:36 [error] 1456#9688: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:56:45 [error] 1456#9688: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:56:53 [error] 1456#9688: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:57:01 [error] 1456#9688: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:57:10 [error] 1456#9688: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:57:10 [error] 1456#528: hls: cleanup DeleteFile() failed on 'C:/nginx-rtmp/var/www/live/test/index.m3u8' (32: The process cannot access the file because it is being used by another process)
+2016/12/08 10:57:18 [error] 1456#9688: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:57:26 [error] 1456#9688: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:57:35 [error] 1456#9688: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:57:43 [error] 1456#9688: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:57:51 [error] 1456#9688: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:58:00 [error] 1456#9688: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:58:00 [notice] 8336#10056: signal process started (stop)
+2016/12/08 10:58:06 [notice] 7916#7972: sockinit() attempting to access sockapi
+2016/12/08 10:58:06 [notice] 7916#7972: Access to sockapi succeded!
+2016/12/08 10:58:06 [notice] 7916#7972: using sockapi from "4;28;"
+2016/12/08 10:58:06 [error] 7916#7640: hls: cleanup DeleteFile() failed on 'C:/nginx-rtmp/var/www/live/test/index.m3u8' (32: The process cannot access the file because it is being used by another process)
+2016/12/08 10:58:23 [error] 7916#6464: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:58:31 [error] 7916#6464: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:58:36 [error] 7916#6464: *7 CreateFile() "C:/nginx-rtmp/var/www/live/meme/index.m3u8" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /live/meme/index.m3u8 HTTP/1.1", host: "localhost"
+2016/12/08 10:58:40 [error] 7916#6464: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:58:41 [error] 7916#6464: *8 CreateFile() "C:/nginx-rtmp/var/www/live/meme/index.m3u8" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /live/meme/index.m3u8 HTTP/1.0", host: "localhost"
+2016/12/08 10:58:46 [error] 7916#6464: *9 CreateFile() "C:/nginx-rtmp/var/www/live/meme/index.m3u8" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /live/meme/index.m3u8 HTTP/1.0", host: "localhost:80"
+2016/12/08 10:58:48 [error] 7916#6464: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:58:56 [error] 7916#6464: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:59:05 [error] 7916#6464: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:59:06 [error] 7916#7640: hls: cleanup DeleteFile() failed on 'C:/nginx-rtmp/var/www/live/test/index.m3u8' (32: The process cannot access the file because it is being used by another process)
+2016/12/08 10:59:13 [error] 7916#6464: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:59:21 [error] 7916#6464: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:59:30 [error] 7916#6464: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:59:38 [error] 7916#6464: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:59:46 [error] 7916#6464: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 10:59:55 [error] 7916#6464: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 11:00:03 [error] 7916#6464: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 11:00:06 [error] 7916#7640: hls: cleanup DeleteFile() failed on 'C:/nginx-rtmp/var/www/live/test/index.m3u8' (32: The process cannot access the file because it is being used by another process)
+2016/12/08 11:00:07 [error] 7916#6464: *4 hls: rename failed: 'C:/nginx-rtmp/var/www/live/test/index.m3u8.bak'->'C:/nginx-rtmp/var/www/live/test/index.m3u8' (5: Access is denied), client: 127.0.0.1, server: 0.0.0.0:1935
+2016/12/08 11:00:26 [notice] 6992#7344: signal process started (stop)
+2016/12/08 11:02:13 [notice] 2452#532: sockinit() attempting to access sockapi
+2016/12/08 11:02:13 [notice] 2452#532: Access to sockapi succeded!
+2016/12/08 11:02:13 [notice] 2452#532: using sockapi from "4;28;"
+2016/12/08 11:02:31 [error] 2452#1332: *5 CreateFile() "C:/nginx-rtmp/var/www/live/test/index.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /live/test/index.m3u8 HTTP/1.1", host: "localhost"
+2016/12/08 11:02:32 [error] 2452#1332: *5 CreateFile() "C:/nginx-rtmp/var/www/live/test/index.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /live/test/index.m3u8 HTTP/1.1", host: "localhost"
+2016/12/08 11:09:17 [notice] 8960#5528: signal process started (stop)
+2016/12/11 06:04:55 [notice] 3532#5688: sockinit() attempting to access sockapi
+2016/12/11 06:04:55 [notice] 3532#5688: Access to sockapi succeded!
+2016/12/11 06:04:55 [notice] 3532#5688: using sockapi from "4;28;"
+2016/12/11 11:35:23 [notice] 9428#1740: signal process started (stop)
+2016/12/12 14:30:12 [notice] 9456#7252: sockinit() attempting to access sockapi
+2016/12/12 14:30:12 [notice] 9456#7252: Access to sockapi succeded!
+2016/12/12 14:30:12 [notice] 9456#7252: using sockapi from "4;36;"
+2016/12/12 14:42:13 [error] 9456#6744: *5 CreateFile() "C:/nginx-rtmp/var/www/live/username2/index.m3u8" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /live/username2/index.m3u8 HTTP/1.1", host: "localhost", referrer: "http://localhost:8080/user/username2"
+2016/12/12 17:54:17 [notice] 924#9188: Fatal: wait for sockapi failed
+2016/12/12 17:54:25 [notice] 9664#6624: Fatal: wait for sockapi failed
+2016/12/12 17:54:47 [notice] 8852#3932: Fatal: wait for sockapi failed
+2016/12/12 17:55:21 [notice] 7336#8352: Fatal: wait for sockapi failed
+2016/12/12 17:56:14 [notice] 5216#2344: Fatal: wait for sockapi failed
+2016/12/12 17:57:33 [notice] 2520#3912: Fatal: wait for sockapi failed
+2016/12/12 17:57:36 [notice] 6040#5240: Fatal: wait for sockapi failed
+2016/12/12 17:59:21 [notice] 8620#1204: Fatal: wait for sockapi failed
+2016/12/12 17:59:29 [notice] 8372#5676: Fatal: wait for sockapi failed
+2016/12/12 17:59:34 [notice] 5684#9028: signal process started (stop)
+2016/12/12 17:59:37 [notice] 7640#7892: sockinit() attempting to access sockapi
+2016/12/12 17:59:37 [notice] 7640#7892: Access to sockapi succeded!
+2016/12/12 17:59:37 [notice] 7640#7892: using sockapi from "4;28;"
+2016/12/12 18:00:56 [error] 7640#8456: *5 CreateFile() "C:/nginx-rtmp/var/www/live/username2/index.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /live/username2/index.m3u8 HTTP/1.1", host: "localhost", referrer: "http://localhost:8080/user/username2"
+2016/12/12 18:04:56 [notice] 4744#4128: signal process started (stop)
