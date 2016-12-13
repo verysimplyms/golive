@@ -1,0 +1,46 @@
+{{template "noheader" .}}
+<head>
+	<link href="http://vjs.zencdn.net/5.8.8/video-js.css" rel="stylesheet">	
+	<script src="http://vjs.zencdn.net/5.8.8/video.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/videojs-contrib-hls/4.0.2/videojs-contrib-hls.js"></script>
+</head>
+
+<body>
+
+	<div id="content">
+		<h2>Hi {{.Username}}</h2>
+		<video id="video" width="640" height="360" class="video-js vjs-default-skin" controls>
+			<source
+				src="http://localhost/live/{{.Username}}/index.m3u8"
+				type="application/x-mpegURL">
+		</video>
+		
+		<div id="chat" height= "300" width= "150">
+		</div>
+		<div id="input">
+			<input id='msg-user' type="text"></input> <input type="submit" value="send" onclick="sendMsg()">
+		</div>
+	</div>
+	
+	<script src="http://vjs.zencdn.net/5.11/video.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/videojs-contrib-hls/4.0.2/videojs-contrib-hls.js"></script>
+	
+	<script>
+		var player = videojs('video');
+		player.play();
+		
+		var sock = new WebSocket("ws://localhost:8080/ws/{{.Username}}")
+		
+		sock.addEventListener("message", function(event) {
+			document.getElementById("chat").innerHTML += event.data + "<br />"
+			console.log(event.data);
+		})
+		
+	var sendMsg = function() {
+		sock.send(document.getElementById('msg-user').value)
+		document.getElementById('msg-user').value = '';
+	}
+	</script>
+	
+
+{{template "footer" .}}

@@ -1,0 +1,14 @@
+{{define "NavMenu"}}
+<nav>
+	<ul>
+		<li><a href="/">index</a></li>
+		{{if .username}}
+			<li><a href="/user">user</a></li>
+			<li><a href="/PrivateMessages">PrivateMessages</a></li>
+		{{else}}
+			<li><a href="/login">login</a></li>
+			<li><a href="/register">register</a></li>
+		{{end}}
+	</ul>
+</nav>
+{{end}}

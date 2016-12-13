@@ -1,0 +1,53 @@
+{{template "header" .}}
+		<h1>Index</h1>
+		
+		{{template "NavMenu" .}}
+		
+		<form action="register/post" method="POST">
+			<input type="text" name="username" id="username" placeholder="Username" maxlength="20" onkeyup="removeChars();" onkeypress="removeChars();"><br>
+			<input type="password" name="password" id="password" placeholder="Password" maxlength="20" onkeyup="removeChars();" onkeypress="removeChars();"><br>
+			
+			<input type="submit" id="submit" value="Submit" style="display:none;">
+		</form>
+		
+		<div id="registrationConsole">
+			<div id="usernameRequirements" style="color:red;">Username must be at least 4 characters</div>
+			<div id="passwordRequirements" style="color:red;">Password must be at least 6 characters</div>
+			<div id="specialCharactersRequirements"></div>
+		</div>
+		
+		<script>
+				var username = document.getElementById("username");
+				var password = document.getElementById("password");
+				regexSpecialChars = new RegExp(/[^A-Za-z0-9-_]/gi);
+				function removeChars() {
+					if(typeof username.value != 'undefined' && typeof username.value != 'null') {
+						username.value = username.value.replace(/[^A-Za-z0-9-_]/gi, '');
+					}
+					if(typeof password.value != 'undefined' && typeof password.value != 'null') {
+						if((regexSpecialChars.test(password.value) == true) || (regexSpecialChars.test(username.value) == true)) {
+							document.getElementById("specialCharactersRequirements").innerHTML = "<b style='color:red;'>Special Characters, excluding dashes and underscores, can not be used username or password fields.</b>";
+							document.getElementById("submit").style.display = "none";
+						} else if ((regexSpecialChars.test(password.value) == false) && (regexSpecialChars.test(username.value) == false)){
+							document.getElementById("specialCharactersRequirements").innerHTML = "";
+							document.getElementById("submit").style.display = "initial";
+						}
+					}
+					
+					if(username.value.length < 4 || username.value.length > 20) {
+						document.getElementById("submit").style.display = "none";
+						document.getElementById("usernameRequirements").style.color = "red";
+					} else if(username.value.length >= 4 && username.value.length <= 20) {
+						document.getElementById("usernameRequirements").style.color = "green";
+					}
+					
+					if(password.value.length < 6 || password.value.length > 20) {
+						document.getElementById("submit").style.display = "none";
+						document.getElementById("passwordRequirements").style.color = "red";
+					} else if(password.value.length >= 6 && password.value.length <= 20 ){
+						document.getElementById("passwordRequirements").style.color = "green";
+					}
+				}
+		</script>
+		
+{{template "footer"}}
